@@ -3,8 +3,8 @@ import { SocialIcon } from 'react-social-icons';
 export default function Footer() {
   return (
     <footer>
-        <div className="container mx-auto px-20 p-4 md:flex md:items-center md:justify-between md:p-6">
-            <span className="text-sm sm:text-center">&copy; 2022  stellawang.com</span>
+        <div className="container mx-auto px-20 p-4 md:flex md:items-center md:justify-between">
+            <span className="text-sm text-gray-500 sm:text-center">&copy; 2022  stellawang.com</span>
             <ul className="flex flex-wrap items-center mt-3 text-sm sm:mt-0">
                 <li>
                     <SocialIcon url="mailto:stellaw1@student.ubc.ca" className="mr-2 hover:scale-125" style={{ height: 32, width: 32}} bgColor="#ee8634"/>
