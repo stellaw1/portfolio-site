@@ -49,7 +49,7 @@ export default function Header () {
             }   w-full lg:inline-flex lg:flex-grow lg:w-auto`}
             >
             <div className='lg:inline-flex lg:flex-row lg:ml-auto lg:w-auto w-full lg:items-center items-start flex flex-col lg:h-auto'>
-                <Link href='/projects'>
+                <Link href='/project'>
                 <a className='lg:inline-flex lg:w-auto w-full mx-4 px-3 py-2 rounded font-bold items-center justify-center hover:bg-sky-500/50 hover:text-white '>
                     Projects
                 </a>
@@ -59,7 +59,7 @@ export default function Header () {
                     Blog
                 </a>
                 </Link>
-                <Link href='/resume'>
+                <Link href='/resume.pdf'>
                 <a className='lg:inline-flex lg:w-auto w-full mx-4 px-3 py-2 rounded font-bold items-center justify-center hover:bg-sky-500/50 hover:text-white'>
                     Resume
                 </a>
