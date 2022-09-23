@@ -1,5 +1,6 @@
-import Link from 'next/link';
 import { useState } from 'react';
+import Link from 'next/link';
+import Image from 'next/image';
 
 export default function Header () {
   const [active, setActive] = useState(false);
@@ -9,17 +10,21 @@ export default function Header () {
   };
 
   return (
-    <div className="container mx-auto px-2">
+    <div className="container mx-auto px-20">
       <nav className='flex items-center flex-wrap bg-inherit p-3 '>
         <Link href='/'>
-          <a className='inline-flex items-center p-2 mr-4 '>
-            <span className='text-xl font-bold tracking-wide'>
-              Stella
-            </span>
-          </a>
+            <a className='inline-flex items-center p-2 mr-4 '>
+                <Image
+                    width={50}
+                    height={50}
+                    alt="icon"
+                    src="/icon.jpg"
+                    className="rounded mr-3 h-6 sm:h-9"
+                />    
+            </a>
         </Link>
         <button
-          className=' inline-flex p-3 hover:bg-green-600 rounded lg:hidden ml-auto hover:text-white outline-none'
+          className=' inline-flex p-3 hover:bg-sky-500/50 rounded lg:hidden ml-auto hover:text-white outline-none'
           onClick={handleClick}
         >
           <svg
@@ -45,22 +50,22 @@ export default function Header () {
         >
           <div className='lg:inline-flex lg:flex-row lg:ml-auto lg:w-auto w-full lg:items-center items-start  flex flex-col lg:h-auto'>
             <Link href='/projects'>
-              <a className='lg:inline-flex lg:w-auto w-full px-3 py-2 rounded font-bold items-center justify-center hover:bg-green-600 hover:text-white '>
+              <a className='lg:inline-flex lg:w-auto w-full px-3 py-2 rounded font-bold items-center justify-center hover:bg-sky-500/50 hover:text-white '>
                 Projects
               </a>
             </Link>
             <Link href='/blog'>
-              <a className='lg:inline-flex lg:w-auto w-full px-3 py-2 rounded font-bold items-center justify-center hover:bg-green-600 hover:text-white'>
+              <a className='lg:inline-flex lg:w-auto w-full px-3 py-2 rounded font-bold items-center justify-center hover:bg-sky-500/50 hover:text-white'>
                 Blog
               </a>
             </Link>
             <Link href='/resume'>
-              <a className='lg:inline-flex lg:w-auto w-full px-3 py-2 rounded font-bold items-center justify-center hover:bg-green-600 hover:text-white'>
+              <a className='lg:inline-flex lg:w-auto w-full px-3 py-2 rounded font-bold items-center justify-center hover:bg-sky-500/50 hover:text-white'>
                 Resume
               </a>
             </Link>
             <Link href='/about'>
-              <a className='lg:inline-flex lg:w-auto w-full px-3 py-2 rounded font-bold items-center justify-center hover:bg-green-600 hover:text-white'>
+              <a className='lg:inline-flex lg:w-auto w-full px-3 py-2 rounded font-bold items-center justify-center hover:bg-sky-500/50 hover:text-white'>
                 About
               </a>
             </Link>
