@@ -10,7 +10,7 @@ export default function Header () {
   };
 
   return (
-    <div className="container mx-auto px-20">
+    <div className="container mx-auto px-12">
       <nav className='flex items-center flex-wrap bg-inherit p-3 '>
         <Link href='/'>
             <a className='inline-flex items-center p-2 mr-4 '>
@@ -48,24 +48,24 @@ export default function Header () {
             active ? '' : 'hidden'
           }   w-full lg:inline-flex lg:flex-grow lg:w-auto`}
         >
-          <div className='lg:inline-flex lg:flex-row lg:ml-auto lg:w-auto w-full lg:items-center items-start  flex flex-col lg:h-auto'>
+          <div className='lg:inline-flex lg:flex-row lg:ml-auto lg:w-auto w-full lg:items-center items-start flex flex-col lg:h-auto'>
             <Link href='/projects'>
-              <a className='lg:inline-flex lg:w-auto w-full px-3 py-2 rounded font-bold items-center justify-center hover:bg-sky-500/50 hover:text-white '>
+              <a className='lg:inline-flex lg:w-auto w-full mx-4 px-3 py-2 rounded font-bold items-center justify-center hover:bg-sky-500/50 hover:text-white '>
                 Projects
               </a>
             </Link>
             <Link href='/blog'>
-              <a className='lg:inline-flex lg:w-auto w-full px-3 py-2 rounded font-bold items-center justify-center hover:bg-sky-500/50 hover:text-white'>
+              <a className='lg:inline-flex lg:w-auto w-full mx-4 px-3 py-2 rounded font-bold items-center justify-center hover:bg-sky-500/50 hover:text-white'>
                 Blog
               </a>
             </Link>
             <Link href='/resume'>
-              <a className='lg:inline-flex lg:w-auto w-full px-3 py-2 rounded font-bold items-center justify-center hover:bg-sky-500/50 hover:text-white'>
+              <a className='lg:inline-flex lg:w-auto w-full mx-4 px-3 py-2 rounded font-bold items-center justify-center hover:bg-sky-500/50 hover:text-white'>
                 Resume
               </a>
             </Link>
             <Link href='/about'>
-              <a className='lg:inline-flex lg:w-auto w-full px-3 py-2 rounded font-bold items-center justify-center hover:bg-sky-500/50 hover:text-white'>
+              <a className='lg:inline-flex lg:w-auto w-full mx-4 px-3 py-2 rounded font-bold items-center justify-center hover:bg-sky-500/50 hover:text-white'>
                 About
               </a>
             </Link>

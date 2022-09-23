@@ -1,23 +1,31 @@
+import { SocialIcon } from 'react-social-icons';
+
 export default function Footer() {
   return (
-    <div className="container mx-auto px-20">
-        <footer className="p-4 md:flex md:items-center md:justify-between md:p-6">
-            <span className="text-sm text-gray-500 sm:text-center">&copy; 2022  stellawang.com</span>
+    <footer>
+        <div className="container mx-auto px-20 p-4 md:flex md:items-center md:justify-between md:p-6">
+            <span className="text-sm sm:text-center">&copy; 2022  stellawang.com</span>
             <ul className="flex flex-wrap items-center mt-3 text-sm sm:mt-0">
                 <li>
-                    <a href="#" className="mr-4 hover:underline md:mr-6 ">About</a>
+                    <SocialIcon url="mailto:stellaw1@student.ubc.ca" className="mr-2 hover:scale-125" style={{ height: 32, width: 32}} bgColor="#ee8634"/>
                 </li>
                 <li>
-                    <a href="#" className="mr-4 hover:underline md:mr-6">Privacy Policy</a>
+                    <SocialIcon url="https://www.linkedin.com/in/stellaw1" className="mr-2 hover:scale-125" style={{ height: 32, width: 32}} bgColor="#0a66c3"/>
                 </li>
                 <li>
-                    <a href="#" className="mr-4 hover:underline md:mr-6">Licensing</a>
+                    <SocialIcon url="https://www.youtube.com/channel/UCt2N5_ti9WrcclByyEC0unw" className="mr-2 hover:scale-125" style={{ height: 32, width: 32}}/>
                 </li>
                 <li>
-                    <a href="#" className="hover:underline">Contact</a>
+                    <SocialIcon url="https://open.spotify.com/user/12172097669?si=e17f18eb635a46bc" className="mr-2 hover:scale-125" style={{ height: 32, width: 32}}/>
+                </li>
+                <li>
+                    <SocialIcon url="https://twitter.com/jaketrent" className="mr-2 hover:scale-125" style={{ height: 32, width: 32}}/>
+                </li>
+                <li>
+                    <SocialIcon url="https://github.com/stellaw1" className="mr-2 hover:scale-125" style={{ height: 32, width: 32}}/>
                 </li>
             </ul>
-        </footer>
-    </div>
+        </div>
+    </footer>
   )
 }
