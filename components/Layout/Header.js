@@ -11,12 +11,12 @@ export default function Header () {
 
   return (
     <nav>
-        <div className="container mx-auto px-12 flex items-center flex-wrap p-3">
+        <div className="container mx-auto px-24 flex items-center flex-wrap p-3">
             <Link href='/'>
-                <a className='inline-flex items-center p-2 mr-4 '>
+                <a className='pl-16 py-4 inline-flex items-center p-2 mr-4 '>
                     <Image
-                        width={50}
-                        height={50}
+                        width={60}
+                        height={60}
                         alt="icon"
                         src="/icon.jpg"
                         className="rounded mr-3 h-6 sm:h-9"
@@ -50,22 +50,22 @@ export default function Header () {
             >
             <div className='lg:inline-flex lg:flex-row lg:ml-auto lg:w-auto w-full lg:items-center items-start flex flex-col lg:h-auto'>
                 <Link href='/project'>
-                <a className='lg:inline-flex lg:w-auto w-full mx-4 px-3 py-2 rounded font-bold items-center justify-center hover:bg-sky-500/50 hover:text-white '>
+                <a className='lg:inline-flex lg:w-auto w-full mx-4 px-3 py-2 rounded items-center justify-center hover:bg-sky-500/50 text-lg hover:text-white '>
                     Projects
                 </a>
                 </Link>
                 <Link href='/blog'>
-                <a className='lg:inline-flex lg:w-auto w-full mx-4 px-3 py-2 rounded font-bold items-center justify-center hover:bg-sky-500/50 hover:text-white'>
+                <a className='lg:inline-flex lg:w-auto w-full mx-4 px-3 py-2 rounded items-center justify-center hover:bg-sky-500/50 text-lg hover:text-white'>
                     Blog
                 </a>
                 </Link>
                 <Link href='/resume.pdf'>
-                <a className='lg:inline-flex lg:w-auto w-full mx-4 px-3 py-2 rounded font-bold items-center justify-center hover:bg-sky-500/50 hover:text-white'>
+                <a className='lg:inline-flex lg:w-auto w-full mx-4 px-3 py-2 rounded items-center justify-center hover:bg-sky-500/50 text-lg hover:text-white'>
                     Resume
                 </a>
                 </Link>
                 <Link href='/about'>
-                <a className='lg:inline-flex lg:w-auto w-full mx-4 px-3 py-2 rounded font-bold items-center justify-center hover:bg-sky-500/50 hover:text-white'>
+                <a className='lg:inline-flex lg:w-auto w-full mx-4 px-3 py-2 rounded items-center justify-center hover:bg-sky-500/50 text-lg hover:text-white'>
                     About
                 </a>
                 </Link>

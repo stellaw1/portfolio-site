@@ -10,17 +10,18 @@
 }
 
 body {
-    font-family: 'Source Sans Pro', sans-serif;
+    font-family: 'Source Sans 3', sans-serif;
     margin: 0 auto;
     background-color: var(--main-bg-color);
     color: var(--base-font);
 }
 
-header {
+nav {
     font-weight: bold;
 }
 
 footer {
     background-color: var(--light-bg-color);
     color: var(--light-font);
+    font-weight: 600;
 }
