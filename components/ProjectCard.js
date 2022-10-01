@@ -3,11 +3,11 @@ import Link from 'next/link';
 
 export default function Footer(props) {
     return (
-        <div className='h-64 m-2 rounded-xl drop-shadow overflow-hidden flex flex-row bg-[#C0D6DF] mb-6'>
+        <div className='h-64 mx-14 rounded-xl drop-shadow overflow-hidden flex flex-row bg-[#C0D6DF] mb-12'>
             <Link href={`/project/${props.slug}`}>
                 <a>
                 <Image
-                    width={256}
+                    width={300}
                     height={256}
                     alt={props.title}
                     src={`/${props.img}`}
