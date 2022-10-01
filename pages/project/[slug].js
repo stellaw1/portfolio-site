@@ -1,6 +1,7 @@
 import fs from 'fs';
 import matter from 'gray-matter';
-import md from 'markdown-it';
+
+import ProjectPage from '../../components/PostPage';
 
 export async function getStaticPaths() {
   const files = fs.readdirSync('posts/projects');
@@ -27,10 +28,13 @@ export async function getStaticProps({ params: { slug } }) {
 }
 
 export default function PostPage({ frontmatter, content }) {
+  const {title, date, description, github, img, tags} = frontmatter;
+
   return (
-    <div className='prose mx-auto'>
-      <h1>{frontmatter.title}</h1>
-      <div dangerouslySetInnerHTML={{ __html: md().render(content) }} />
-    </div>
+    <ProjectPage
+      title={title}
+      date={date}
+      content={content}
+    />
   );
 }

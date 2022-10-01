@@ -13,7 +13,7 @@ export default function Header () {
     <nav>
         <div className="container mx-auto px-24 flex items-center flex-wrap p-3">
             <Link href='/'>
-                <a className='pl-16 py-4 inline-flex items-center p-2 mr-4 '>
+                <a className='py-4 inline-flex items-center p-2 mr-4 '>
                     <Image
                         width={60}
                         height={60}
@@ -24,7 +24,7 @@ export default function Header () {
                 </a>
             </Link>
             <button
-            className=' inline-flex p-3 hover:bg-sky-500/50 rounded lg:hidden ml-auto hover:text-white outline-none'
+            className='inline-flex p-3 hover:bg-sky-500/50 rounded lg:hidden ml-auto hover:text-white outline-none'
             onClick={handleClick}
             >
             <svg

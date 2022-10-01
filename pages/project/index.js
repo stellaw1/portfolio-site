@@ -1,7 +1,6 @@
 import fs from 'fs';
 import matter from 'gray-matter';
-import Image from 'next/image';
-import Link from 'next/link';
+import ProjectCard from '../../components/ProjectCard';
 
 export async function getStaticProps() {
   const files = fs.readdirSync('posts/projects');
@@ -25,24 +24,18 @@ export async function getStaticProps() {
 
 export default function Project({ posts }) {
   return (
-    <div className='grid grid-cols-1 md:grid-cols-3 lg:grid-cols-4 p-4 md:p-0'>
+    <div className='flex flex-col'>
       {posts.map(({ slug, frontmatter }) => (
-        <div
+        <ProjectCard 
           key={slug}
-          className='border border-gray-200 m-2 rounded-xl shadow-lg overflow-hidden flex flex-col'
-        >
-          <Link href={`/post/${slug}`}>
-            <a>
-              <Image
-                width={650}
-                height={340}
-                alt={frontmatter.title}
-                src={`/${frontmatter.socialImage}`}
-              />
-              <h1 className='p-4'>{frontmatter.title}</h1>
-            </a>
-          </Link>
-        </div>
+          slug={slug}
+          title={frontmatter.title}
+          date={frontmatter.date}
+          description={frontmatter.description}
+          github={frontmatter.github}
+          tags={frontmatter.tags}
+          img={frontmatter.img}
+        />
       ))}
     </div>
   );

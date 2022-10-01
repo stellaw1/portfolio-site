@@ -1,11 +1,13 @@
 ---
-title: 'Next.js static HTML export'
-metaTitle: 'Next.js static HTML export'
-metaDesc: 'Creating a static HTML export Next.js application'
-socialImage: images/03-10-2021.jpg
-date: '2021-10-03'
+title: 'This is my Project Title'
+date: 'September 10th, 2022'
+description: 'Creating a static HTML export Next.js application'
+github: 'https://github.com/'
+img: images/11-12-2021.jpg
 tags:
   - nextjs
+  - python
+  - java
 ---
 
 If you are looking for the best hosting for your Next.js application, check out [Vercel as your Next.js host](https://daily-dev-tips.com/posts/deploying-a-nextjs-application-on-vercel/).
