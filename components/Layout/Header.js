@@ -13,15 +13,15 @@ export default function Header () {
     <nav>
         <div className="container mx-auto px-24 flex items-center flex-wrap p-3">
             <Link href='/'>
-                <a className='py-4 inline-flex items-center p-2 mr-4 '>
+                <div className="py-4 inline-flex items-center mr-4 transition duration-150 ease-in-out rounded-md hover:scale-110 ">
                     <Image
-                        width={60}
-                        height={60}
+                        width={80}
+                        height={80}
                         alt="icon"
                         src="/icon.jpg"
-                        className="rounded mr-3 h-6 sm:h-9"
-                    />    
-                </a>
+                        className="rounded-md mr-3 h-6 sm:h-9"
+                    />  
+                </div>
             </Link>
             <button
             className='inline-flex p-3 hover:bg-sky-500/50 rounded lg:hidden ml-auto hover:text-white outline-none'
@@ -50,22 +50,22 @@ export default function Header () {
             >
             <div className='lg:inline-flex lg:flex-row lg:ml-auto lg:w-auto w-full lg:items-center items-start flex flex-col lg:h-auto'>
                 <Link href='/project'>
-                <a className='lg:inline-flex lg:w-auto w-full mx-4 px-3 py-2 rounded items-center justify-center hover:bg-sky-500/50 text-lg hover:text-white '>
+                <a className='lg:inline-flex lg:w-auto w-full mx-4 px-3 py-2 rounded items-center justify-center transition-colors duration-300 ease-in-out hover:bg-sky-500/50 text-xl hover:text-white '>
                     Projects
                 </a>
                 </Link>
                 <Link href='/blog'>
-                <a className='lg:inline-flex lg:w-auto w-full mx-4 px-3 py-2 rounded items-center justify-center hover:bg-sky-500/50 text-lg hover:text-white'>
+                <a className='lg:inline-flex lg:w-auto w-full mx-4 px-3 py-2 rounded items-center justify-center transition-colors duration-300 ease-in-out hover:bg-sky-500/50 text-xl hover:text-white'>
                     Blog
                 </a>
                 </Link>
                 <Link href='/resume.pdf'>
-                <a className='lg:inline-flex lg:w-auto w-full mx-4 px-3 py-2 rounded items-center justify-center hover:bg-sky-500/50 text-lg hover:text-white'>
+                <a className='lg:inline-flex lg:w-auto w-full mx-4 px-3 py-2 rounded items-center justify-center transition-colors duration-300 ease-in-out hover:bg-sky-500/50 text-xl hover:text-white'>
                     Resume
                 </a>
                 </Link>
                 <Link href='/about'>
-                <a className='lg:inline-flex lg:w-auto w-full mx-4 px-3 py-2 rounded items-center justify-center hover:bg-sky-500/50 text-lg hover:text-white'>
+                <a className='lg:inline-flex lg:w-auto w-full mx-4 px-3 py-2 rounded items-center justify-center transition-colors duration-300 ease-in-out hover:bg-sky-500/50 text-xl hover:text-white'>
                     About
                 </a>
                 </Link>
