@@ -28,29 +28,17 @@ export async function getStaticProps() {
 export default function Blog({ posts }) {
   return (
     <div className="">
+      <div className="flex flex-row pb-8 font-bold text-2xl">
+        <svg aria-hidden="true" className="mt-1 mr-2 w-6 h-6 fill-current" fill="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+            <path d="M13 21v2.5l-3-2-3 2V21h-.5A3.5 3.5 0 0 1 3 17.5V5a3 3 0 0 1 3-3h14a1 1 0 0 1 1 1v17a1 1 0 0 1-1 1h-7zm0-2h6v-3H6.5a1.5 1.5 0 0 0 0 3H7v-2h6v2zm6-5V4H6v10.035A3.53 3.53 0 0 1 6.5 14H19zM7 5h2v2H7V5zm0 3h2v2H7V8zm0 3h2v2H7v-2z"></path>
+        </svg>
+        <p>
+          stellawang/brain-dump
+        </p>
+      </div>
       <BlogHero 
         posts={posts}
       />
     </div>
-    // <div className='grid grid-cols-1 md:grid-cols-3 lg:grid-cols-4 p-4 md:p-0'>
-    //   {posts.map(({ slug, frontmatter }) => (
-    //     <div
-    //       key={slug}
-    //       className='border border-gray-200 m-2 rounded-xl shadow-lg overflow-hidden flex flex-col'
-    //     >
-    //       <Link href={`/post/${slug}`}>
-    //         <a>
-    //           <Image
-    //             width={650}
-    //             height={340}
-    //             alt={frontmatter.title}
-    //             src={`/${frontmatter.socialImage}`}
-    //           />
-    //           <h1 className='p-4'>{frontmatter.title}</h1>
-    //         </a>
-    //       </Link>
-    //     </div>
-    //   ))}
-    // </div>
   );
 }

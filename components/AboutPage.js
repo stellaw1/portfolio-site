@@ -22,29 +22,15 @@ export default function AboutPage() {
                 <img className="object-contain w-2/5 rounded-md ml-2" alt={"about2"} src={`/about2.jpg`} />
                 <div className="flex flex-col mr-4 my-auto">
                     <p className="text-lg my-2">
-                        I am a software engineer, specialising in backend development. 
-                        Some fields I have dabbled in include machine learning, Web3, API, and database development. 
+                        I am a <b>software engineer</b>, specialising in backend development. 
+                        Some fields I have dabbled in include frontend design, machine learning, Web3, API, game, and database development. 
                         Through working at internships, startups, and hackathons, I have developed crucial communication, teamwork, and organization skills. 
                     </p>
-                    <p className="text-lg my-2">
-                        While I'm not working I enjoy reading, music (Spotify is my favourite social media), outdoor sports, and travelling. 
+                    <p className="prose text-lg my-2">
+                        While not working, I enjoy <a className="" href="https://www.goodreads.com/user/show/137052229-stella-w">reading</a>, music (<a href="https://open.spotify.com/user/12172097669?si=e17f18eb635a46bc">Spotify</a> is my favourite social media), outdoor sports, <a href="https://www.youtube.com/channel/UCt2N5_ti9WrcclByyEC0unw">travelling</a>, and petting dogs. 
                     </p>
                 </div>
             </div>
-{/* 
-            ## What am I up to right now?
-            ###### Updated: Jun 19th, 2022
-            Interning at Amazon AWS for the summer, then going back to UBC to finish up my last in my computer engineering degree. 
-
-            ## Career Interests
-            - Web3 (blockchain) development
-            - Fullstack development
-            - Data science
-
-            ## Hobbies
-            - Mechanical Keyboards
-            - Sports - Soccer, Volleyball, Kickboxing, Skiing
-            - Travelling - *check out my travel vlogs on youtube!* */}
         </div>
     )
 }
