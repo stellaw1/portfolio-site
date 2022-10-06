@@ -25,7 +25,7 @@ export async function getStaticProps() {
 export default function Project({ posts }) {
   return (
     <div className='flex flex-col'>
-      {posts.map(({ slug, frontmatter }) => (
+      {posts.reverse().map(({ slug, frontmatter }) => (
         <ProjectCard 
           key={slug}
           slug={slug}
