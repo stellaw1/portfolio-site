@@ -3,7 +3,7 @@ title: Fellow Crossing
 img: fellowcrossing.png
 date: '2020-07-17'
 description: 'An animal crossing inspired game I built as a submission to the MLH Fellowship Halfway Hackathon'
-github: 
+github: https://github.com/stellaw1/fellow-crossing
 tags:
   - Godot
 ---

@@ -25,16 +25,17 @@ export async function getStaticProps() {
 export default function Project({ posts }) {
   return (
     <div className='flex flex-col'>
-      {posts.reverse().map(({ slug, frontmatter }) => (
+      {posts.reverse().map(({ slug, frontmatter }, i) => (
         <ProjectCard 
           key={slug}
           slug={slug}
           title={frontmatter.title}
           date={frontmatter.date}
           description={frontmatter.description}
-          github={frontmatter.github}
+          github={frontmatter.github ? frontmatter.github : "/project/" + slug}
           tags={frontmatter.tags}
           img={frontmatter.img}
+          reverse={i % 2 == 0? "flex-row" : "flex-row-reverse"}
         />
       ))}
     </div>

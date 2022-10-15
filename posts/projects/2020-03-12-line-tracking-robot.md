@@ -3,8 +3,9 @@ title: Line Tracking Robot
 img: linerobot.jpg
 date: '2020-03-12'
 description: 'Built a line-following robot using a Raspberry Pi and a PID controller with additional functionalities for a course project'
-github: 
+github: https://github.com/stellaw1/cpen291-line-tracking-robot
 tags:
+  - Python
   - Raspberry Pi
 ---
 

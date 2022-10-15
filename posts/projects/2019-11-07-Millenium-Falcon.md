@@ -3,7 +3,7 @@ title: Millenium Falcon
 date: '2019-11-07'
 description: 'A space game that utilizes graph theory, designed for a project in a basic algorithms and data structures course'
 github: https://github.com/stellaw1/MillenniumFalcon
-img: millenium.png
+img: millenium-thumbnail.jpg
 tags: 
  - Java
  - Graphs

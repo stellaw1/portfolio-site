@@ -1,7 +1,7 @@
 import fs from 'fs';
 import matter from 'gray-matter';
 
-import ProjectPage from '../../components/PostPage';
+import PostPage from '../../components/PostPage';
 
 export async function getStaticPaths() {
   const files = fs.readdirSync('posts/projects');
@@ -27,11 +27,11 @@ export async function getStaticProps({ params: { slug } }) {
   };
 }
 
-export default function PostPage({ frontmatter, content }) {
+export default function ProjectPage({ frontmatter, content }) {
   const {title, date, description, github, img, tags} = frontmatter;
 
   return (
-    <ProjectPage
+    <PostPage
       title={title}
       date={date}
       content={content}

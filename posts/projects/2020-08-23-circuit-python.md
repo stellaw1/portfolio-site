@@ -3,7 +3,7 @@ title: Circuit Python contribution
 img: Blinka.jpg
 date: '2020-08-23'
 description: 'Contributing to an open source project, Circuit Python, as a part of MLH Fellowship'
-github: 
+github: https://github.com/stellaw1/glider
 tags:
   - Python
 ---

@@ -3,7 +3,7 @@ title: Solana Web3 contribution
 img: solana.jpg
 date: '2022-02-25'
 description: 'First peak into the world of blockchain!'
-github: 
+github: https://github.com/MLH-Fellowship/solana-web3.js
 tags:
   - Web3
 ---

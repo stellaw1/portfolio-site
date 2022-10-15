@@ -13,6 +13,9 @@ tags:
 
 SAP d-shop virtual AR/VR office tour
 
+![screenshot](https://github.com/stellaw1/stellaw1.github.io/blob/master/images/projects/sap-vr-tour.png?raw=true)
+
+
 ## Try it out here
 [https://ar-office-tour-fall2020.cfapps.sap.hana.ondemand.com/](https://ar-office-tour-fall2020.cfapps.sap.hana.ondemand.com/)
 

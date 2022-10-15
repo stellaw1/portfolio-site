@@ -3,7 +3,7 @@ title: Dancing BiPed Robot
 img: dancing-robot.jpg
 date: '2020-02-25'
 description: 'Built a dancing biped robot for CPEN 291 mini project'
-github: 
+github: https://github.com/stellaw1/cpen291-dancing-robot
 tags:
   - Python
 ---
