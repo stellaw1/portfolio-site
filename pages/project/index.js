@@ -2,6 +2,7 @@ import fs from 'fs';
 import matter from 'gray-matter';
 import ProjectCard from '../../components/ProjectCard';
 
+
 export async function getStaticProps() {
   const files = fs.readdirSync('posts/projects');
 

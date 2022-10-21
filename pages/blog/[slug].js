@@ -1,7 +1,7 @@
 import fs from 'fs';
 import matter from 'gray-matter';
 
-import PostPage from '../../components/PostPage';
+import PostPage from '../../components/Pages/PostPage';
 
 
 export async function getStaticPaths() {
