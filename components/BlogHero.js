@@ -11,11 +11,12 @@ export default function BlogHero(props) {
                     2022
                 </div>
             </div>
-            {props.posts.reverse().map(({ slug, frontmatter }) => (
+            {props.posts.reverse().map(({ slug, data, html }) => (
                 <BlogCard 
                     key={slug}
                     slug={slug}
-                    title={frontmatter.title}
+                    title={data.title}
+                    html={html}
                 />
             ))}
         </div>

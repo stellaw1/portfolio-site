@@ -1,7 +1,6 @@
 ---
-layout: post
 title: June 2020 Reflection
-tags: blog
+date: '2020-07-01'
 ---
 
 Holy heck June was another fast-paced, action-packed month. 
@@ -14,14 +13,14 @@ Regarding work, I've been logging that progress in a separate post. There have b
 
 
 ## Highlights
-<b>Jun 7th - </b> Nando's picnic @ Sunnyside <br>
-<b>Jun 18th - </b> Drunk af at Johnny's<br>
-<b>Jun 20th - </b> Dentist bound <br>
-<b>Jun 23rd - </b> Finished finals for my summer course <br>
-<b>Jun 25th - </b> Amber's graduation party - we made a cake! <br>
-<b>Jun 27th - </b> golf & chats with Max & Daniel <br>
-<b>Jun 28th - </b> Grouse Grind <br>
-<b>Jul 1st - </b> Canada Day picnic indoord @ the Hsu's <br>
+- **Jun 7th -** Nando's picnic @ Sunnyside
+- **Jun 18th -** Drunk af at Johnny's
+- **Jun 20th -** Dentist bound 
+- **Jun 23rd -** Finished finals for my summer course 
+- **Jun 25th -** Amber's graduation party - we made a cake! 
+- **Jun 27th -** golf & chats with Max & Daniel 
+- **Jun 28th -** Grouse Grind 
+- **Jul 1st -** Canada Day picnic indoord @ the Hsu's 
 
 
 ## Goals
@@ -30,5 +29,6 @@ Regarding work, I've been logging that progress in a separate post. There have b
  * Hit 40k by 2021
 
 
-Happy with life, <br>
+Happy with life, 
+
 Stella

@@ -1,13 +1,12 @@
 ---
-layout: post
 title: Final 2020 Reflection + 2021 aspirations
-tags: blog
+date: '2021-01-01'
 ---
 
 
 Goodbye 2020
 
-# 2020 reflection
+## 2020 reflection
 Although I did not set concrete resolutions for this year, I think I did a good job following the loose idea of what I wanted to achieve. Namely, I had a shift in perspective and consciously tried to let go of small details and focus on bigger picture. The goal of this shift was to alleviate my anxiety and achieve more bigger picture goals.
 
 In retrospect, everything was in full swing the first half of the year. I was keeping up with my monthly reflections and felt a lot of self growth during that semester. While I mainly focused on my coursework and job seeking during that time, a lot of big decisions were made with my personal life as well. I decided to visit my brother in Toronto for the first time after landing my first internship. I took a short break from my relationship to rethink my priorities. And, I had to make a big decision with accepting/ rejecting internships (long story but it all worked out in the end).
@@ -21,10 +20,10 @@ Thankfully, I had an internship during the summer to keep me busy so my time was
 Next year, I would like to set more concrete goals to break out of this stall that the pandemic put me in (or I put myself in and am blaming the pandemic for :p ).
 
 
-# 2021 aspirations
+## 2021 aspirations
 In 2021, I hope to achieve these 12 concrete goals (1 for each month?) Meanwhile, I also hope to continue pursuing my 2020 perspective of not worrying about small details and focusing on the bigger picture.
 
-## 12 Goals
+### 12 Goals
 1. Learn PCB design - build keyboard from scratch
 2. Keyboard YouTube video
 3. Posture - don’t break neck & back
@@ -34,10 +33,11 @@ In 2021, I hope to achieve these 12 concrete goals (1 for each month?) Meanwhile
 7. ~~Summer Travel vlogs~~
 8. ~~Learn AI by enrolling in a course~~
 9.  Draft a simple b&w resume
-10. Don’t fail ELEC
-11. At least 80% in courses
+10. ~~Don’t fail ELEC~~
+11. ~~At least 80% in courses~~
 12. Get better at mandarin - duolingo, write in Chinese
 
 
-ready for a kickass year, <br>
+ready for a kickass year, 
+
 Stella

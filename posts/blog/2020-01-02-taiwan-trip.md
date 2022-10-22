@@ -1,7 +1,6 @@
 ---
-layout: post
 title: Exploring my hometown, Taiwan
-tags: blog
+date: '2020-01-02'
 ---
 
 My hometown, Taiwan, documented on film.  
@@ -15,5 +14,4 @@ Normally, I am a pretty introverted and self-conscious person. I once read in a 
 ## The Vlogs
 Filming everything I did in Taiwan originally started as a joke between me and my friends, but I soon realized that there are too many fascinating and quirky things in Taiwan that need to be remembered forever. So, with a "why not" attitude, I decided to yet again put my reputation on the line. With my iPhone and some quick edits in iMovie, I present to you a series: My hometown, Taiwan, documented. 
 
-## Click below to watch the vlogs: 
-[![playlist](https://github.com/stellaw1/stellaw1.github.io/blob/master/images/blog/taiwanVlogs.jpg?raw=true)](https://www.youtube.com/playlist?list=PLJ0YdHDWAKOnCefIQ6JWXc7qfnuXV89o2)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLJ0YdHDWAKOnCefIQ6JWXc7qfnuXV89o2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

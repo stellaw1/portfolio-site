@@ -1,11 +1,12 @@
 ---
-layout: post
-title: February 2020 Reflection
-tags: blog
+title: February 2020 Reflection (Toronto!)
+date: '2020-03-01'
 ---
 
 The shortest month of the year was somehow the most event-filled experience. 
 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLJ0YdHDWAKOk8-cKMv1Z7F0lIy_wrY79H" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Highlights
 The greatest highlight of the month is my trip to Toronto, Ontario. 
@@ -16,28 +17,23 @@ Seeing how big and opportunity-filled the big city was made me realize how shelt
 
 Until then, here are some memories from Toronto that I will treasure forever :')
 
-![TO 1](https://github.com/stellaw1/stellaw1.github.io/blob/master/images/blog/TO1.JPG?raw=true)
+![TO 1](/images/blog/TO1.JPG)
 > CN Tower view from Union Station. 
 
-![TO 2](https://github.com/stellaw1/stellaw1.github.io/blob/master/images/blog/TO2.JPG?raw=true)
+![TO 2](/images/blog/TO2.JPG)
 > Selfie at the Toronto Lights Festival at Distillery District. 
 
-![TO 3](https://github.com/stellaw1/stellaw1.github.io/blob/master/images/blog/TO3.JPG?raw=true)
+![TO 3](/images/blog/TO3.JPG)
 > Exploring the U of T campus in good weather. 
 
-![TO 4](https://github.com/stellaw1/stellaw1.github.io/blob/master/images/blog/TO4.JPG?raw=true)
+![TO 4](/images/blog/TO4.JPG)
 > Golden Hour at Financial District. 
 
-![TO 5](https://github.com/stellaw1/stellaw1.github.io/blob/master/images/blog/TO5.JPG?raw=true)
+![TO 5](/images/blog/TO5.JPG)
 > Ian feeling sick at Niagara Falls :/
 
-![TO 6](https://github.com/stellaw1/stellaw1.github.io/blob/master/images/blog/TO6.JPG?raw=true)
+![TO 6](/images/blog/TO6.JPG)
 > Is the thumb of the mitten the cat's paw or tail? 
-
-
-PS. Toronto vlogs are coming soon to my [YouTube channel](https://www.youtube.com/playlist?list=PLJ0YdHDWAKOk8-cKMv1Z7F0lIy_wrY79H) !
-
-EDIT: 
 
 
 ## Lowlight
@@ -57,17 +53,17 @@ Now, I am able to look at the experience as an important life lesson. It taught 
 
 
 ## Fun events from January 
-<b>Feb 1st - </b> Booked my flight to Toronto<br>
-<b>Feb 3rd - </b> 100% on first Diffentials math midterm <br>
-<b>Feb 5th - </b> First coding midterm was a fun time<br>
-<b>Feb 14th - </b> Fun Valentine's date night in Yaletwon<br>
-<b>Feb 15th - </b> Dyed Jen's hair and had Beijing roast duck dinner with friends <br>
-<b>Feb 16th - </b> Photoshoot downtown w/ Rav + Dinner in White Rock with old friends<br>
-<b>Feb 17th - </b> Ate Korean Food downtown w/ Chi-Yao<br>
-<b>Feb 18th - </b> Kitsilano beach + Raisu w/ Seann<br>
-<b>Feb 19th ~ 24th - </b> Toronto trip<br>
-<b>Feb 27th - </b> Cooked Ram-don from Parasite with Seann<br>
-<b>Feb 28th - </b> Nando's with Ginny & Anica !!!<br>
+- **Feb 1st -** Booked my flight to Toronto
+- **Feb 3rd -** 100% on first Diffentials math midterm 
+- **Feb 5th -** First coding midterm was a fun time
+- **Feb 14th -** Fun Valentine's date night in Yaletwon
+- **Feb 15th -** Dyed Jen's hair and had Beijing roast duck dinner with friends 
+- **Feb 16th -** Photoshoot downtown w/ Rav + Dinner in White Rock with old friends
+- **Feb 17th -** Ate Korean Food downtown w/ Chi-Yao
+- **Feb 18th -** Kitsilano beach + Raisu w/ Seann
+- **Feb 19th ~ 24th -** Toronto trip
+- **Feb 27th -** Cooked Ram-don from Parasite with Seann
+- **Feb 28th -** Nando's with Ginny & Anica !!!
 
 
 ## March goals
@@ -75,6 +71,8 @@ Now, I am able to look at the experience as an important life lesson. It taught 
 * Research and start a new personal project
 * Re-focus on school and properly learning/ understanding course content 
 
+&nbsp;
 
-Excited for March, <br>
+Excited for March, 
+
 Stella

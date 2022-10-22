@@ -1,7 +1,6 @@
 ---
-layout: post
 title: 2021 looking good so far
-tags: blog
+date: '2021-08-21'
 ---
 
 
@@ -19,5 +18,6 @@ Fast forward to June, it was time for me to fly back to BC. June was spent movin
 Now, we are nearing the end of "the summer after covid". There are two weeks left and I am beyond excited to start school. Call me a nerd, but I've always enjoyed school because it usually meant growth. And especially after a year of working and a summer of fun, I am very excietd to be learning new things again.
 
 
-Excited about life, <br>
+Excited about life, 
+
 Stella

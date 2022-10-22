@@ -1,13 +1,12 @@
 ---
-layout: post
 title: The time I broke my leg
-tags: blog
+date: '2022-06-08'
 ---
 
 
 Life is full of unexpected twists and turns
 
-# STORY TIME
+## Story time
 The date is May 1st aka my 22nd birthday. I had just completed my first half marathon and had a wonderful birthday dinner at Haidilao with my besties. Now, I am sitting on a flight to Taiwan ready to see my parents for the first time in three years (thanks to Covid). Although it sucks that I have to waste ten days in quarantine upon arrival, the sheer excitemet of spending a whole month with my parents gets me through each boring day in isolation. Plus I can't complain much about quarantine with parents that spoil me everyday by dropping off good food and snacks and bubble tea. 
 
 Fast forward to May 13th, the most exciting time when I am finally allowed to step foot out of my aunt's lovely apartment that she let me stay in during quarantine. The humid Taiwan air has never felt so fresh and the mundane convenince stores suddenly are the most invigorating sights. That first weekend, my parents and I enjoyed each other's company and spent the days walking around outdoors and buying yummy takeout given Covid is spreading like crazy in Taiwan at the moment. Eventually, my parents both had to go to work, so I picked up Harry Potter to pass the time. 

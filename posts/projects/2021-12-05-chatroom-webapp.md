@@ -1,23 +1,18 @@
 ---
-title: SAP d-shop virtual AR/VR office tour
-img: sap-vr-tour.png
-date: '2020-12-17'
-description: 'SAP d-shop virtual AR/VR office tour'
-github: 
+title: Chatroom Web App
+img: chatroom-webapp.png
+date: '2021-12-05'
+description: 'Built a web application for students and professors to chat online'
+github: https://github.com/stellaw1/chatroom-project
 tags:
-  - AR
-  - VR
+  - JavaScript
+  - HTML
+  - CSS
+  - MongoDB
 ---
 
 
-
-SAP d-shop virtual AR/VR office tour
-
-![screenshot](/images/projects/sap-vr-tour.png)
-
-
-## Try it out here
-[https://ar-office-tour-fall2020.cfapps.sap.hana.ondemand.com/](https://ar-office-tour-fall2020.cfapps.sap.hana.ondemand.com/)
+![product](https://github.com/ubc-cpen322-2021/classroom/raw/master/assets/screenshot.png?raw=true)
 
 
 ## Summary

@@ -1,7 +1,6 @@
 ---
-layout: post
 title: May 2020 Reflection
-tags: blog
+date: '2020-06-01'
 ---
 
 May was full of ups and downs, but it was a good start to my roaring 20's nonetheless!
@@ -35,10 +34,6 @@ How ironic... I just finished reading my January reflection and the basis of my 
 Starting June 1st, I have an internship duty and a summer course to keep me busy. This will likely help take my mind off of the abundance of choices that my anxiety can choose to dwell on. I will try to be more mindful this month and try to be more spontaneous and confident in my decisions. 
 
 
-## Aside (irrelevant project idea)
-I had an idea to create a subscription list for these blog posts to 1. share my thoughts and lessons with more people and 2. use it as an opportunity to learn mongoDB
+Welcome to June, 
 
-
-
-Welcome to June, <br>
 Stella

@@ -1,7 +1,6 @@
 ---
-layout: post
 title: Best Summer Job
-tags: blog
+date: '2019-08-25'
 ---
 
 "When I say Geering, you say Up. Geering! Up!"
@@ -10,9 +9,8 @@ tags: blog
 ## What did I do 
 This past summer has been a blast. Though, it has been busy and hectic, it was an experience that was much more than I could have asked for. 
 
-![gu staff social](https://github.com/stellaw1/stellaw1.github.io/blob/master/images/blog/gu.jpg?raw=true)
-
-These were my coworkers for the summer, working at UBC Geering Up Engineering Outreach. I spent April-August 2019 working as an Intructor for Geering Up workshops and summer camps. 
+![gu staff social](/images/blog/gu.jpg)
+> These were my coworkers for the summer, working at UBC Geering Up Engineering Outreach. I spent April-August 2019 working as an Intructor for Geering Up workshops and summer camps. 
 
 ## Workshops gang
 In late April, we started work with a week of training for the workshops season (May/ June). Workshops season meant that we went around to different schools in the lower mainland and lead a 1-2 hour workshop on various science topics. These workshops were usually taught by a pair of instructors and involved lots of hands on activities for the students. 
@@ -34,5 +32,6 @@ Not only did I contribute directly to thousands of youth lives, I also grew as a
 In short, if you love kids and science, I highly recommend you to apply to work at Geering Up. You will come out of the experience with a sense of satisfation and lifelong friends. 
 
 
-Go apply [here](www.geeringup.ca), <br>
+Go apply [here](www.geeringup.ca), 
+
 Stella

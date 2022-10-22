@@ -1,7 +1,6 @@
 ---
-layout: post
 title: August/ September 2020 Reflection
-tags: blog
+date: '2020-10-01'
 ---
 
 
@@ -19,5 +18,6 @@ Now, at the end of September, I want to say I have been fully onboarded and am n
 After speaking with my manager, Gavin, I am especially excited to see what lessons I can learn from the rest of this internship. We chatted about my goals and interests for this internsip. He said my next task will likely be a challenging one that I may or may not be able to solve, as there is no perfect way to onboard to this team's codebase. Nevertheless, I look forward to contributing more to the team's tasks and getting to know everyone better!
 
 
-Working hard or hardly working, <br>
+Working hard or hardly working, 
+
 Stella

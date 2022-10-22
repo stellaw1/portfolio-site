@@ -1,7 +1,6 @@
 ---
-layout: post
 title: April 2020 Reflection
-tags: blog
+date: '2020-05-01'
 ---
 
 Boy April flew by despite being quarantined indoors for the entire month. 
@@ -26,20 +25,20 @@ Given all the free time in my days (after final season ended on April 23rd), I h
 
 My back up plan for this summer is to take summer courses (online), if job seeking continues to be unsuccessful. As well, there are a couple coding languages I want to learn through specific projects. 
 
-###### I want to learn: 
+### I want to learn: 
 - React
 - Animation and graphics design
 - MongoDB 
 - Speaking Chinese
 
-###### How I'm going to learn:
+### How I'm going to learn:
 - Build a dynamic landing page for my personal website using React
 - Design customized icons, backgrounds, and images for my portfolio webpage
 - Re-vamp my resume using customized icons and ATS friendly content
 - Integrate a mailing subscription list for blog posts on my website using MongoDB
 - Translating all my YouTube videos to have Chinese captions
 
-###### Fun things to look forward to:
+### Fun things to look forward to:
 - Build a mechanical keyboard from scratch
 - Visiting Taiwan if travel restrictions get lifted soon
 
@@ -51,5 +50,6 @@ In this extremely disorganized and unpredictable time period, I am hopeful that 
 
 
 
-Very hopeful, <br>
+Very hopeful, 
+
 Stella
