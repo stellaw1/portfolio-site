@@ -5,7 +5,10 @@ date: '2019-10-12'
 
 Here is a log of what happened at my first ever hackathon and some reflections. 
 
+![team](/images/blog/dubhacks1.jpg)
+
 ## Day 1 - October 12th, 2019 
+![team](/images/blog/dubhacks2.jpg)
 The expereience began with a 6AM wakeup call. After a 3 hour bus ride, I arrived at the University of Washington. At this point I was super excited because I had a couple of interesting ideas I wanted to develop, but also I was seeing an old friend that I haven't seen in a while. 
 
 ## Choosing our project
@@ -35,6 +38,9 @@ Overall, the experience was very educational and eye-opening. I now want to lear
 - Do your best!
 
 ## Day 2 - October 13th
+
+![team](/images/blog/dubhacks3.jpg)
+
 Boy was I exhausted. Coding for more than 10 hours straight really gets to you... However we were already lucky compared to other teams because we went home at night and actually got sleep. 
 
 When it came to demo time, although our project was not 100% finished, we were proud to demo it. It really inspiring to see the projects that other teams developed and created a sense of what I could/ should be working towards. 
