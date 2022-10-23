@@ -7,8 +7,8 @@ export default function AboutPage() {
                 <p className="pb-4 mx-auto center font-bold text-center text-3xl md:text-5xl">
                     Stella Wang
                 </p>
-                <div className="md:flex flex-row">
-                    <img className="object-contain md:w-2/5 rounded-md mx-2" alt={"about1"} src={`/about1.jpg`} />
+                <div className="lg:flex flex-row">
+                    <img className="object-contain lg:w-2/5 rounded-md mx-2" alt={"about1"} src={`/about1.jpg`} />
                     <div className="flex flex-col mx-4 my-auto">
                         <p className="md:text-xl my-2">
                             I am...
@@ -21,8 +21,8 @@ export default function AboutPage() {
                         </div>
                     </div>
                 </div>
-                <div className="md:flex md:flex-row-reverse">
-                    <img className="object-contain md:w-2/5 rounded-md mx-2" alt={"about2"} src={`/about2.jpg`} />
+                <div className="lg:flex lg:flex-row-reverse">
+                    <img className="object-contain lg:w-2/5 rounded-md mx-2" alt={"about2"} src={`/about2.jpg`} />
                     <div className="flex flex-col mx-4 my-auto">
                         <p className="md:text-lg my-2">
                             I am a <b>software engineer</b>, specialising in backend development. 
