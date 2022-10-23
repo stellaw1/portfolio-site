@@ -4,9 +4,14 @@ export default function AboutPage() {
     return (
         <Animation>
             <div className='mx-auto space-y-12'>
-                <p className="pb-4 mx-auto center font-bold text-center text-3xl md:text-5xl">
-                    Stella Wang
-                </p>
+                <div className="pb-12 mx-auto center font-bold text-center text-3xl sm:text-5xl relative">
+                    <div className="text-[#C0D6DF] absolute inset-1 right-px">
+                        Stella Wang
+                    </div>
+                    <div className="text-[#5FA8D3] absolute inset-0">
+                        Stella Wang
+                    </div>
+                </div>
                 <div className="lg:flex flex-row">
                     <img className="object-contain lg:w-2/5 rounded-md mx-2" alt={"about1"} src={`/about1.jpg`} />
                     <div className="flex flex-col mx-4 my-auto">
