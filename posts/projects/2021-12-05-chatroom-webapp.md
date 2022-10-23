@@ -5,7 +5,7 @@ date: '2021-12-05'
 description: 'Built a web application for students and professors to chat online'
 github: https://github.com/stellaw1/chatroom-project
 tags:
-  - JavaScript
+  - JS
   - HTML
   - CSS
   - MongoDB
@@ -14,16 +14,14 @@ tags:
 
 ![product](https://github.com/ubc-cpen322-2021/classroom/raw/master/assets/screenshot.png?raw=true)
 
+This was an online dicussion forum web app for students and professors to chat online, where anyone can create a chat room about a topic and people can have live chats that I built for a Software Construction course. 
 
-## Summary
-Over the first term of my internship at SAP, I joined on of their d-shop teams, namely the VR Office Tour team. We worked together to bring to life a virtual tour of our beautiful Vancouver office. The original goal was to allow people passing the streets of the office to get a glimpse into the office, but that goal changed as work shifted to work from home. Our updated target audience became new interns and colleagues that have not had the chance to visit the office. We hoped our project would excite them and help them look forward to the reopening of offices. As well, we provided some interesting facts and statistics about the company (for example, number of interns, ratio of boys to girls, etc)
+## How I built it
+1. Development started with the client side GUI, which involved using a lot of HTML, JavaScript, and CSS to layout and style the elements. 
+2. Then, I turned the application into a single-page application via Client-side routing, defined high level objects to manage the application state, defined components that dynamically update according to changes in the application state, and created event handlers to add interactivity in the application and to update the application state.
+3. Then, I implemented AJAX requests that allow the client to read and update the list of chat rooms from the server, implemented a WebSocket client to send and receive messages from the server, and a WebSocket server to act as a message broker between the client applications.
+4. Then, I set up a MongoDB database for the application, wrote a driver for interacting with the MongoDB service, and created REST endpoints for reading objects from the database.
+5. Lastly, I added security to the web app by implement a simple authentication mechanism, added user authentication using session cookies, and sanitized user input to defend against Cross-Site Scripting attacks.
 
-
-## Technologies
-- A Frame - main AR/ VR library used to build the foundations of the project
-- SAP Cloud Foundry - used to deploy/ host our product on the cloud
-- TinkerCAD - tool used to design and create custom 3D models
-
-
-## Reflection
-I'm so glad I got the chance to work on an exciting and cool project and make some new friends. The technologies used in this project were completely new to most of use, so it was a great learning experience for all. We ran into some ups and downs and had to scale down our scope during the process, but we are super proud of the progress we accomplished, considering this was an extra-curricular on top of our full time work.
+## What I learnt
+Through developing this chatroom web app, I gained fundamental understanding for how web apps are built and learnt essential skills for how to add security, data storage, and REST requests. 

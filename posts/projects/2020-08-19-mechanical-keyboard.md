@@ -2,7 +2,7 @@
 title: Custom Mechanical Keyboard
 img: kb3.JPG
 date: '2020-08-19'
-description: 'As I say... Everyone needs an expensive hobby :)'
+description: 'Everyone needs an expensive hobby'
 github: 
 tags:
   - 

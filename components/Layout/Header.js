@@ -15,8 +15,8 @@ export default function Header () {
             <Link href='/about'>
                 <div className="py-4 inline-flex items-center mr-4 transition duration-150 ease-in-out rounded-md hover:scale-110 ">
                     <Image
-                        width={80}
-                        height={80}
+                        width={60}
+                        height={60}
                         alt="icon"
                         src="/icon.jpg"
                         className="rounded-md mr-3 h-6 sm:h-9"

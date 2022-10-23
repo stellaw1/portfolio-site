@@ -6,7 +6,7 @@ description: 'Built a line-following robot using a Raspberry Pi and a PID contro
 github: https://github.com/stellaw1/cpen291-line-tracking-robot
 tags:
   - Python
-  - Raspberry Pi
+  - RaspberryPi
 ---
 
 

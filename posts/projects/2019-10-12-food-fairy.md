@@ -5,7 +5,7 @@ date: '2019-10-12'
 description: 'A foodwaste manager project built at the University of Washington Dubhacks hackathon'
 github: https://github.com/stellaw1/food-fairy
 tags:
-  - JavaScript
+  - JS
   - HTML
   - CSS
   - FireBase
