@@ -1,4 +1,10 @@
+const isProd = process.env.NODE_ENV === 'production'
+
 module.exports = {
+  assetPrefix: isProd ? "/portfoliio-site/" : "",
+  images: {
+    unoptimized: true,
+  },
   reactStrictMode: true,
   async redirects() {
     return [
