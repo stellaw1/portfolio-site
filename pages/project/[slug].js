@@ -22,7 +22,7 @@ function mdToHtml(content) {
 
 export async function getStaticPaths() {
   const files = fs.readdirSync('posts/projects');
-  const paths = files.map((fileName) => ({
+  const paths = files.reverse().map((fileName) => ({
     params: {
       slug: fileName.replace('.md', ''),
     },
