@@ -6,7 +6,7 @@ import ProjectCard from '../../components/ProjectCard';
 export async function getStaticProps() {
   const files = fs.readdirSync('posts/projects');
 
-  const posts = files.map((fileName) => {
+  const posts = files.reverse().map((fileName) => {
     const slug = fileName.replace('.md', '');
     const readFile = fs.readFileSync(`posts/projects/${fileName}`, 'utf-8');
     const { data } = matter(readFile);
@@ -26,7 +26,7 @@ export async function getStaticProps() {
 export default function Project({ posts }) {
   return (
     <div className='flex flex-col'>
-      {posts.reverse().map(({ slug, data }, i) => (
+      {posts.map(({ slug, data }, i) => (
         <ProjectCard 
           key={slug}
           slug={slug}

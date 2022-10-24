@@ -8,7 +8,7 @@ import BlogHero from '../../components/BlogHero';
 export async function getStaticProps() {
   const files = fs.readdirSync('posts/blog');
 
-  const posts = files.map((fileName) => {
+  const posts = files.reverse().map((fileName) => {
     const slug = fileName.replace('.md', '');
     const readFile = fs.readFileSync(`posts/blog/${fileName}`, 'utf-8');
     const { data } = matter(readFile);
