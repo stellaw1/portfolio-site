@@ -1,9 +1,5 @@
 # Portfolio Website
 
-[www.stellawang.com](www.stellawang.com)
-
-***
-
 This is version 2.0 of my portfolio website built with Next.js
 
 ## Local development
