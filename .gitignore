@@ -35,4 +35,5 @@ yarn-error.log*
 
 # archives
 posts/archive
+posts/draft
 public/images/archive/
