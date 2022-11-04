@@ -1,9 +1,11 @@
-import Layout from '../components/Layout/Layout';
 import '../styles/globals.css';
 import '../styles/fonts.css';
 import '../styles/styles.css';
 
 import { AnimatePresence } from 'framer-motion';
+
+import Layout from '../components/Layout/Layout';
+
 
 function MyApp({ Component, pageProps }) {
   return (

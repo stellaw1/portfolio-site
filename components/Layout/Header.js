@@ -12,7 +12,7 @@ export default function Header () {
   return (
     <nav>
         <div className="container mx-auto px-14 md: px-20 lg:px-24 flex items-center flex-wrap p-3">
-            <Link href='/about'>
+            <Link href='/'>
                 <div className="py-4 inline-flex items-center mr-4 transition duration-150 ease-in-out rounded-md hover:scale-110 ">
                     <Image
                         width={60}
