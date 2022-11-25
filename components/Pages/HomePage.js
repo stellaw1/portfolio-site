@@ -38,7 +38,7 @@ export default function HomePage() {
                     </div>
                 </div>
 
-                <div className="my-auto w-1/4 inline-flex items-center transition duration-150 ease-in-out rounded-full hover:scale-110">
+                <div className="my-auto w-1/4 inline-flex items-center rounded-full">
                     <img className="object-contain rounded-full w-48" alt={"icon"} src={`/icon.jpg`} />
                 </div>
             </div>
