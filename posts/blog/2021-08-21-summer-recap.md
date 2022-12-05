@@ -3,9 +3,7 @@ title: 2021 looking good so far
 date: '2021-08-21'
 ---
 
-
 wow, it's been a while since my last blog post/ reflection
-
 
 Honestly, I planned to continue doing monthly reflections going into 2021, since they are really good for tracking and motivating my growth. But, somewhere in between, the low of COVID and quarantine hit. I know I was not the only one struggling to keep a strong and healthy mindset towards the last few months of quarantine (for us it was around April~July). It was difficult to find motivation for anything. Every day was the same. Wake up, work from home, play games, sleep, and repeat. Life became dull. It became difficult for me to find excitement in life, and that says a lot from someone who typically has the energy levels of a 5 year old.
 
@@ -17,7 +15,6 @@ Fast forward to June, it was time for me to fly back to BC. June was spent movin
 
 Now, we are nearing the end of "the summer after covid". There are two weeks left and I am beyond excited to start school. Call me a nerd, but I've always enjoyed school because it usually meant growth. And especially after a year of working and a summer of fun, I am very excietd to be learning new things again.
 
-
-Excited about life, 
+Excited about life,
 
 Stella
