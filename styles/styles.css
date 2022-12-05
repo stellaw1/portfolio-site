@@ -1,12 +1,12 @@
 :root {
-    --main-bg-color: #F8F8F8;
-    --light-bg-color: #D2DEE3;
-    --shade-bg-color: #C0D6DF;
+    --main-bg-color: #f8f8f8;
+    --light-bg-color: #d2dee3;
+    --shade-bg-color: #c0d6df;
 
-    --base-font: #1B4965;
-    --light-font: #86ACC2;
-    --highlight-font: #5FA8D3;
-    --shadow-font: #C0D6DF;
+    --base-font: #1b4965;
+    --light-font: #86acc2;
+    --highlight-font: #5fa8d3;
+    --shadow-font: #c0d6df;
 }
 
 body {
