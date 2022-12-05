@@ -23,7 +23,7 @@ export default function Footer() {
                     </li>
                     <li>
                         <SocialIcon
-                            url="https://www.youtube.com/channel/UCt2N5_ti9WrcclByyEC0unw"
+                            url="https://www.youtube.com/@stella01wang"
                             className="transition duration-150 ease-in-out mr-4 hover:scale-125"
                             style={{ height: 36, width: 36 }}
                         />
