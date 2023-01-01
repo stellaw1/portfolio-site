@@ -11,59 +11,103 @@ This year was filled with countless core memories...
 Many roadtrips and new travel destinations were explored:
 
 Some fun concerts:
-![concert1](/images/blog/concert1.JPG)
+![concert1](/images/blog/concert1.jpg)
+
 > Aug 14th - Ambleside music festival (Mariana's trench, WOTE, Virginia to Vegas)
-![concert2](/images/blog/concert2.JPG)
+
+![concert2](/images/blog/concert2.jpg)
+
 > Sep 17th - Lauv
-![concert3](/images/blog/concert3.JPG)
+
+![concert3](/images/blog/concert3.jpg)
+
 > Nov 9th - Eric Chou
-![concert4](/images/blog/concert4.JPG)
+
+![concert4](/images/blog/concert4.jpg)
+
 > Nov 19th - Mayday <3
 
 There was a lot to celebrate:
-![celeb1](/images/blog/celeb1.JPG)
+
+![celeb1](/images/blog/celeb1.jpg)
+
 > Jan 30th - gotta eat fish on CNY
-![celeb2](/images/blog/celeb2.JPG)
+
+![celeb2](/images/blog/celeb2.jpg)
+
 > Feb 20th - post-ski reading break party with cpen squad
-![celeb3](/images/blog/celeb3.JPG)
+
+![celeb3](/images/blog/celeb3.jpg)
+
 > May 1st - feeling 22!
-![celeb4](/images/blog/celeb4.JPG)
+
+![celeb4](/images/blog/celeb4.jpg)
+
 > Oct 10th - Thanksgiving turkey
-![celeb5](/images/blog/celeb5.JPG)
+
+![celeb5](/images/blog/celeb5.jpg)
+
 > Oct 29th - Halloween pit night
-![celeb6](/images/blog/celeb6.JPG)
+
+![celeb6](/images/blog/celeb6.jpg)
+
 > Dec 1st - Christmas celebrations begin
-![celeb7](/images/blog/celeb7.JPG)
+
+![celeb7](/images/blog/celeb7.jpg)
+
 > Dec 17th - Skybox Christmas party 
-![celeb8](/images/blog/celeb8.JPG)
+
+![celeb8](/images/blog/celeb8.jpg)
+
 > Dec 22nd - annual Taibeer meetup
-![celeb9](/images/blog/celeb9.JPG)
+
+![celeb9](/images/blog/celeb9.jpg)
+
 > Dec 25th - big family Christmas gathering
-![celeb10](/images/blog/celeb10.JPG)
+
+![celeb10](/images/blog/celeb10.jpg)
+
 > Dec 31st - countdown to 2023 at Taipei 101
 
 We participated in a variety of sports:
-![sport1](/images/blog/sport1.JPG)
+
+![sport1](/images/blog/sport1.jpg)
+
 > Mar 23rd - Stormed the wall
-![sport2](/images/blog/sport2.JPG)
+
+![sport2](/images/blog/sport2.jpg)
+
 > May 1st - Completed first half marathon
-![sport3](/images/blog/sport3.JPG)
+
+![sport3](/images/blog/sport3.jpg)
+
 > Aug 31st - checked off lots of Vancouver hikes this summer
 
-![sport4](/images/blog/sport4.JPG)
-![sport5](/images/blog/sport5.JPG)
+![sport4](/images/blog/sport4.jpg)
+![sport5](/images/blog/sport5.jpg)
+
 > Nov 27th - made it to quarter finals in ultimate intramurals
-![sport6](/images/blog/sport6.JPG)
+
+![sport6](/images/blog/sport6.jpg)
+
 > Nov 27th - also played lots of volleyball with the cpen squad
-![sport7](/images/blog/sport7.JPG)
+
+![sport7](/images/blog/sport7.jpg)
+
 > Dec 10th - first 10k race as a recovered cripple
-![sport8](/images/blog/sport3.JPG)
+
+![sport8](/images/blog/sport3.jpg)
+
 > Dec 20th - skied lots!
 
 And a few mishaps of the year:
-![mishap1](/images/blog/mishap1.JPG)
+
+![mishap1](/images/blog/mishap1.jpg)
+
 > Jan 17th - caught COVID
-![mishap2](/images/blog/mishap2.JPG)
+
+![mishap2](/images/blog/mishap2.jpg)
+
 > May 17th - broke my leg
 
 
