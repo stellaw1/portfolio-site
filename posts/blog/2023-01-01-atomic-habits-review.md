@@ -84,6 +84,7 @@ We participated in a variety of sports:
 > Aug 31st - checked off lots of Vancouver hikes this summer
 
 ![sport4](/images/blog/sport4.jpg)
+
 ![sport5](/images/blog/sport5.jpg)
 
 > Nov 27th - made it to quarter finals in ultimate intramurals
