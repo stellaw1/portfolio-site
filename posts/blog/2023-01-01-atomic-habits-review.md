@@ -32,12 +32,14 @@ There was a lot to celebrate:
 ![celeb5](/images/blog/celeb5.JPG)
 > Oct 29th - Halloween pit night
 ![celeb6](/images/blog/celeb6.JPG)
-> Dec 17th - Skybox Christmas party 
+> Dec 1st - Christmas celebrations begin
 ![celeb7](/images/blog/celeb7.JPG)
-> Dec 22nd - annual Taibeer meetup
+> Dec 17th - Skybox Christmas party 
 ![celeb8](/images/blog/celeb8.JPG)
-> Dec 25th - big family Christmas gathering
+> Dec 22nd - annual Taibeer meetup
 ![celeb9](/images/blog/celeb9.JPG)
+> Dec 25th - big family Christmas gathering
+![celeb10](/images/blog/celeb10.JPG)
 > Dec 31st - countdown to 2023 at Taipei 101
 
 We participated in a variety of sports:
