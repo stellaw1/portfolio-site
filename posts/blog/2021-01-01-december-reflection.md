@@ -29,15 +29,11 @@ In 2021, I hope to achieve these 12 concrete goals (1 for each month?) Meanwhile
 2. Keyboard YouTube video
 3. Posture - don’t break neck & back
 4. <s>Connect with manager and higher level employees at SAP</s>
-5. ~~Practice reading comprehension & vocabulary - read 1 book by summer~~
-6. ~~Build PC~~
-7. ~~Summer Travel vlogs~~
-8. ~~Learn AI by enrolling in a course~~
+5. <s>Practice reading comprehension & vocabulary - read 1 book by summer</s>
+6. <s>Build PC</s>
+7. <s>Summer Travel vlogs</s>
+8. <s>Learn AI by enrolling in a course</s>
 9. Draft a simple b&w resume
-10. ~~Don’t fail ELEC~~
-11. ~~At least 80% in courses~~
+10. <s>Don’t fail ELEC</s>
+11. <s>At least 80% in courses</s>
 12. Get better at mandarin - duolingo, write in Chinese
-
-ready for a kickass year,
-
-Stella
