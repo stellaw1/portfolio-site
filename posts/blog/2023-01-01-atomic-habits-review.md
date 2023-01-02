@@ -5,12 +5,47 @@ date: '2023-01-01'
 
 Obligatory new years post
 
-## 2022 memory walk
-This year was filled with countless core memories...
+## A walk down memory lane
+2022 was filled with countless core memories...
 
-Many roadtrips and new travel destinations were explored:
+![first1](/images/blog/first1.jpg)
 
-Some fun concerts:
+> Sep 16th - Solana Hacker House in Vancouver with David and Christian
+
+![first2](/images/blog/first2.jpg)
+
+> Oct 22nd - grad photos shoot with DJ CARS
+
+![first3](/images/blog/first3.jpg)
+
+> Dec 2nd - da cpen squad!
+
+Many fun, new travel destinations were explored:
+![trip1](/images/blog/trip1.jpg)
+
+> Apr 29th - Banff roadtrip with DJ^2 CARS (check out the [vlog](https://youtu.be/rS6Vwv-mv9g))
+
+![trip2](/images/blog/trip2.jpg)
+
+> Aug 1st - summer roadtrip to Kelowna with DJ^3 CARBS
+
+![trip3](/images/blog/trip3.jpg)
+
+> May 15th - the Taiwan trip where I quarantined for 10 days and proceeded to break my leg
+
+![trip4](/images/blog/trip4.jpg)
+
+> Sep 3rd - roadtrip to Seattle to celebrate Amber's 24th bday
+
+![trip5](/images/blog/trip5.jpg)
+
+> Nov 12th - visited New York for the first time!
+
+![trip6](/images/blog/trip6.jpg) ![trip7](/images/blog/trip7.jpg)
+
+> Dec 28th - hometown round 2
+
+Got to listen to some epic concerts:
 ![concert1](/images/blog/concert1.jpg)
 
 > Aug 14th - Ambleside music festival (Mariana's trench, WOTE, Virginia to Vegas)
@@ -79,23 +114,23 @@ We participated in a variety of sports:
 
 > May 1st - Completed first half marathon
 
-![sport3](/images/blog/sport3.jpg)
+![sport3](/images/blog/sport3.jpg) ![sport4](/images/blog/sport4.jpg)
 
 > Aug 31st - checked off lots of Vancouver hikes this summer
 
-![sport4](/images/blog/sport4.jpg) ![sport5](/images/blog/sport5.jpg)
+ ![sport5](/images/blog/sport5.jpg) ![sport6](/images/blog/sport6.jpg)
 
 > Nov 27th - made it to quarter finals in ultimate intramurals
 
-![sport6](/images/blog/sport6.jpg)
+![sport7](/images/blog/sport7.jpg)
 
 > Nov 27th - also played lots of volleyball with the cpen squad
 
-![sport7](/images/blog/sport7.jpg)
+![sport8](/images/blog/sport8.jpg)
 
 > Dec 10th - first 10k race as a recovered cripple
 
-![sport8](/images/blog/sport8.jpg)
+![sport9](/images/blog/sport9.jpg)
 
 > Dec 20th - skied lots!
 
@@ -109,26 +144,6 @@ And a few mishaps of the year:
 
 > May 17th - broke my leg
 
-
-## 2022 reflection
-2022 truly passed by in the blink of an eye. It seems every year that passes seems to pass even faster than the last. This year seems to be the year that marks adulthood - it certainly feels like it (pending confirmation as I continue growing older/ continue in my 20s). 
-
-So many things happened this year: 
- - caught COVID with Jen Jen
- - broke my leg
- - ran a half marathon
- - got a full time offer at Amazon AWS
-
-So many new things experienced: 
- - visited New York for the first time
-
-Too many points of growth:
- - developed confidence through being single
- - discovered my love for running
- - got to know many new friends a lot better
-
-And many more core memories made with the best people:
- - grad photos
 
 ## New years resolution
 It feels like everytime I visit Taiwan, I comeback as a new person. Maybe because being around family members that know me well and watched me grow up helps me realize how much growth happens in the time that I spend away from them. I always find myself reflecting on my perspective, my lifestyle, and how I can improve as a person during my time in Taiwan (maybe that's also cause everytime I visit I am on break and finally have a chance to clear my mind lol) 
