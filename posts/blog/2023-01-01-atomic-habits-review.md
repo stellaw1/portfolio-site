@@ -83,9 +83,7 @@ We participated in a variety of sports:
 
 > Aug 31st - checked off lots of Vancouver hikes this summer
 
-![sport4](/images/blog/sport4.jpg)
-
-![sport5](/images/blog/sport5.jpg)
+![sport4](/images/blog/sport4.jpg) ![sport5](/images/blog/sport5.jpg)
 
 > Nov 27th - made it to quarter finals in ultimate intramurals
 
@@ -97,7 +95,7 @@ We participated in a variety of sports:
 
 > Dec 10th - first 10k race as a recovered cripple
 
-![sport8](/images/blog/sport3.jpg)
+![sport8](/images/blog/sport8.jpg)
 
 > Dec 20th - skied lots!
 
