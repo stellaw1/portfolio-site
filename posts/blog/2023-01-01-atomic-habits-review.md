@@ -3,8 +3,6 @@ title: Atomic Habits book review
 date: '2023-01-01'
 ---
 
-Obligatory new years post
-
 ## A walk down memory lane
 2022 was filled with countless core memories...
 
@@ -48,7 +46,7 @@ Many fun, new travel destinations were explored:
 Got to listen to some epic concerts:
 ![concert1](/images/blog/concert1.jpg)
 
-> Aug 14th - Ambleside music festival (Mariana's trench, WOTE, Virginia to Vegas)
+> Aug 14th - Ambleside music festival with Mariana's trench, WOTE, Virginia to Vegas (check out the [vlog](https://www.youtube.com/watch?v=v-G7lvC7h3c&ab_channel=StellaWang))
 
 ![concert2](/images/blog/concert2.jpg)
 
@@ -146,26 +144,28 @@ And a few mishaps of the year:
 
 
 ## New years resolution
-It feels like everytime I visit Taiwan, I comeback as a new person. Maybe because being around family members that know me well and watched me grow up helps me realize how much growth happens in the time that I spend away from them. I always find myself reflecting on my perspective, my lifestyle, and how I can improve as a person during my time in Taiwan (maybe that's also cause everytime I visit I am on break and finally have a chance to clear my mind lol) 
 
-I'm an avid hater of new years resolutions, specifically my pet peeve is when people say they want to build a certain habit/ achieve a certain goal and feel the need to wait till the new years to start acting on it. I hate this type of procrastination any time of the year tbh... And I don't claim to be above it, I certainly suffer from the same fallacy, often and constantly. I digress. The new years is definitely a clean new beginning to kick start a new habit or goal that has been on the backlog, and through reading Atomic Habits (I'm currently about halfway through), I have learnt a few tips and tricks on how to build habits that last. The main points are to be specific, be realistic, and set your environment up for success while also being easy on your self and aiming for frequency/ consistency over results to begin with. 
 
-### 1. Fitness
-"I will work out more" and "I will lose x pounds" are almost always at the top of everyones list of new years resolutions. After countless times of trying that and failing to keep up after two weeks, I've learnt to tackle fitness and health goals in a different way this year (also because recovering from a broken leg forces me to take things easy hehe)
+It feels like everytime I visit Taiwan, I come back as a new person. Maybe being around family members that know me well and watched me grow up helps me realize how much growth happens in the time that I spend away from them. I always find myself reflecting on my perspective, my lifestyle, and how I can improve as a person during my time in Taiwan (might also be because everytime I visit I am on break and finally have a chance to clear my mind) 
 
-This year I have a goal to run 23 km by my 23rd birthday. I will achieve this not by tracking progress or trying to improve my pace, etc. Instead, I aim to be consistent in getting my steps in. This means I will run or walk at least 30 minutes everyday with the allowance of rest days as long as no two are taken in a row, aka at least 3 times a week. 
+I'm an avid hater of new years resolutions for two reasons. One, we shouldn't wait until a certain date to begin building habits or chasing goals. And two, new years resolutions imply that there exists specific criteria for goals to count as "achieved." When in reality, healthy habits need to be built into your ever changing lifestyle and should constantly be prioritized. It's not as if achieveing a resolution of going to the gym everyday this year lets you off the hook to forget fitness the year after. I digress. Below are just a few goals I have set and have been working on after learning a few tips from Atomic Habits: 
 
-I will take my vitamins every morning and stretch for 10 minutes every night. 
+### 1. Fitness/ Health
+This year I have a goal to run 23 km by my 23rd birthday. I will achieve this not by tracking progress or trying to improve my pace, etc. Instead, I aim to be consistent in getting my steps in. This means I will run or walk at least 30 minutes everyday with the allowance of rest days as long as no two are taken in a row, aka at least 3 runs/ walks every week. Since I don't have classes on Tuesdays or Thursdays, I will take these mornings to have a coffee and get outside (or head to the gym if weather is poor)
 
-less specific goals that I'm working on thinking of ways to enforce/ set myself up for success:
-- more water, less alc
-- posture check
+It's also important for my posture and my recovered broken leg to stretch every day. I will stretch for 10 minutes every night before bed as part of my wind down routine. 
 
-### 2. Read
-Ever since young, I've been the type of person you have to pull away from books rather than encourage to read more. BUT that only applies for fantasy or romance books that I love. Also, I have a bad habit of reading too much at once or not at all (I finished the last 3 books of Harry Potter within a week after taking a 5 month hiatus after Goblet of Fire). Therefore, to encourage reading more self help/ educational/ and classic books that are a little tougher to read, I will read 1 chapter every night before bed. 
+I will also drink more water by setting out filled water bottles on my desk and nightstand table. In the morning, I will drink a full glass along with my multivitamins. 
+
+### 2. Reading
+Ever since young, I've been the type of person you have to pull away from books rather than encourage to read more. BUT that only applies for fantasy or romance books that I love. Also, I have a bad habit of reading too much at once or not at all (I finished the last 3 books of Harry Potter within a week after a 5 month hiatus after Goblet of Fire). Therefore, to encourage reading more self help/ educational/ and classic books that are a little tougher to finish, I will read 1 chapter every day either on my commute to school or before bed as part of my wind down routine. 
 
 ### 3. Productivity
-The biggest bad habit I am trying to break is scrolling mindlessly on instagram for an hour or two in bed right after waking up. I will break this habit by avoiding checking my phone first thing in the morning by setting my phone far away from my bedside table such that I need to get up to fetch it and hide Instagram from the homepage of my phone and turn off notifications. 
+The biggest bad habit I am trying to break is scrolling mindlessly on instagram for an hour or two in bed right after waking up. I will break this habit by avoiding checking my phone first thing in the morning by setting my phone far away from my bedside table such that I need to get up to fetch it. I also hid Instagram from the homepage of my phone and turned off notifications. 
+
+This year, I'd also like to learn some new hobbies. The best friend and I are going to attempt podcasting. I'd like to learn photography. And I'd also like to build an iOS project and an AI project. Also want to learn about startups and how to build one with David. Learn Vim. The upshot is this year is all about trying new things: travelling to new destinations, learning new skills, trying new restaurants, ordering new things on a menu, meeting new people, all of the big and small. We will push ourself to explore the foreign territories. Test your limits and find your boundaries
+
+Get rejected. Be shameless. Ask for what you want. Assume likability unless told otherwise. Chase imperfection - being in action is always better than being in motion
 
 I'd also like to learn some new technologies (WIP)
 - monthly blog reflection
@@ -173,6 +173,8 @@ I'd also like to learn some new technologies (WIP)
 - personal projects
 
 ### 4. Sustainability
+reflect outwards
+
 - less materialistic
 - save money
 - invest in staple pieces
