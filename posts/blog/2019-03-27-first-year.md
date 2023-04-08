@@ -1,6 +1,6 @@
 ---
 title: My First Year Experience
-date: ''
+date: '2019-03-27'
 ---
 
 Hello Again! More than a year has passed since my last post... However, many exciting events have happened since! I graduated high school. I found my first love. And, I've almost finished my first year of university. Phew.

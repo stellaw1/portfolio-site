@@ -6,11 +6,13 @@ export default function ProjectCard(props) {
         <div className="w-full rounded-xl drop-shadow mx-auto overflow-hidden bg-[#C0D6DF] mb-12 transition hover:shadow-md">
             <div className={`md:flex ${props.reverse}`}>
                 <div className="md:shrink-0">
-                    <img
-                        className="h-48 w-full object-cover md:h-full md:w-48 lg:w-64"
-                        src={`/images/projects/${props.img}`}
-                        alt={props.title}
-                    />
+                    <Link href={`/project/${props.slug}`}>
+                        <img
+                            className="h-48 w-full object-cover md:h-full md:w-48 lg:w-64"
+                            src={`/images/projects/${props.img}`}
+                            alt={props.title}
+                        />
+                    </Link>
                 </div>
                 <div className="w-full p-8 space-y-3">
                     <div>

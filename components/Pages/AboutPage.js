@@ -54,13 +54,7 @@ export default function AboutPage() {
                     />
                     <div className="flex flex-col mx-4 my-auto">
                         <p className="md:text-lg my-2">
-                            I am a <b>software engineer</b>, specialising in
-                            backend development. Some fields I have dabbled in
-                            include frontend design, machine learning, Web3,
-                            API, game, and database development. Through working
-                            at internships, startups, and hackathons, I have
-                            developed crucial communication, teamwork, and
-                            organization skills.
+                            I am a <b>software engineer</b>, specializing in backend development. I have dabbled in frontend design, machine learning, Web3, API, game, app, and database development through internships, startups, course projects, and hackathons.
                         </p>
                         <p className="prose md:text-lg my-2">
                             While not working, I enjoy{' '}

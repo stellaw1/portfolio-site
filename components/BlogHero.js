@@ -20,6 +20,7 @@ export default function BlogHero(props) {
                     key={slug}
                     slug={slug}
                     title={data.title}
+                    date={data.date}
                     html={html}
                 />
             ))}
