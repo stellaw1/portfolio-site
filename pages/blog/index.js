@@ -1,14 +1,12 @@
 import fs from 'fs';
 import matter from 'gray-matter';
-import Image from 'next/image';
-import Link from 'next/link';
 
 import BlogHero from '../../components/BlogHero';
 
 export async function getStaticProps() {
     const files = fs.readdirSync('posts/blog');
 
-    const posts = files.reverse().map((fileName) => {
+    const posts = files.map((fileName) => {
         const slug = fileName.replace('.md', '');
         const readFile = fs.readFileSync(`posts/blog/${fileName}`, 'utf-8');
         const { data } = matter(readFile);
@@ -25,6 +23,30 @@ export async function getStaticProps() {
     };
 }
 
+const splitPostsByYear = (posts) => {
+    var dict = {};
+
+    for (var i = 0; i < posts.length; i++) {
+        var post = posts[i];
+        var date = post.data.date;
+        var year = date.substring(0, 4);
+
+        if (dict[year]) {
+            dict[year].push(post);
+        } else {
+            dict[year] = [post];
+        }
+    }
+    var result = Object.keys(dict).map(function (year) {
+        return {
+            year: year,
+            data: dict[year]
+        };
+    });
+
+    return result;
+};
+
 export default function Blog({ posts }) {
     return (
         <div className="">
@@ -40,7 +62,13 @@ export default function Blog({ posts }) {
                 </svg>
                 <p>stellawang/brain-dump</p>
             </div>
-            <BlogHero posts={posts} />
+            <div className="border border-gray-500 rounded-lg">
+                {splitPostsByYear(posts)
+                    .reverse()
+                    .map(({ year, data }, i) => (
+                        <BlogHero key={i} year={year} posts={data} />
+                    ))}
+            </div>
         </div>
     );
 }
