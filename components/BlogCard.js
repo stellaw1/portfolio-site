@@ -3,7 +3,7 @@ import Link from 'next/link';
 export default function BlogCard(props) {
     return (
         <Link href={`/blog/${props.slug}`}>
-            <div className="inline-flex relative items-center py-2 px-4 w-full text-sm font-medium border-b border-gray-400 hover:bg-gray-100 ">
+            <div className="inline-flex relative items-center py-2 px-4 w-full text-sm font-medium border-b border-gray-400 hover:bg-gray-100 cursor-pointer">
                 <div className="flex">
                     <svg
                         aria-hidden="true"
