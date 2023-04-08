@@ -54,7 +54,11 @@ export default function AboutPage() {
                     />
                     <div className="flex flex-col mx-4 my-auto">
                         <p className="md:text-lg my-2">
-                            I am a <b>software engineer</b>, specializing in backend development. I have dabbled in frontend design, machine learning, Web3, API, game, app, and database development through internships, startups, course projects, and hackathons.
+                            I am a <b>software engineer</b>, specializing in
+                            backend development. I have dabbled in frontend
+                            design, machine learning, Web3, API, game, app, and
+                            database development through internships, startups,
+                            course projects, and hackathons.
                         </p>
                         <p className="prose md:text-lg my-2">
                             While not working, I enjoy{' '}

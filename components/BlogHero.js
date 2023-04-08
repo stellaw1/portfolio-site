@@ -6,7 +6,12 @@ export default function BlogHero(props) {
 
     return (
         <div className="mx-auto rounded-sm border border-gray-500">
-            <button onClick={() => {setShow(!show)} } className="inline-flex relative items-center py-2 px-4 w-full text-sm font-medium border-b border-gray-400 hover:bg-gray-100">
+            <button
+                onClick={() => {
+                    setShow(!show);
+                }}
+                className="inline-flex relative items-center py-2 px-4 w-full text-sm font-medium border-b border-gray-400 hover:bg-gray-100"
+            >
                 <svg
                     aria-hidden="true"
                     className="mx-3 w-5 h-5 fill-current"
@@ -18,15 +23,16 @@ export default function BlogHero(props) {
                 </svg>
                 <div className="text-lg">{props.year}</div>
             </button>
-            {show && props.posts.map(({ slug, data, html }) => (
-                <BlogCard
-                    key={slug}
-                    slug={slug}
-                    title={data.title}
-                    date={data.date}
-                    html={html}
-                />
-            ))}
+            {show &&
+                props.posts.map(({ slug, data, html }) => (
+                    <BlogCard
+                        key={slug}
+                        slug={slug}
+                        title={data.title}
+                        date={data.date}
+                        html={html}
+                    />
+                ))}
         </div>
     );
 }

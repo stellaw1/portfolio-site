@@ -3,7 +3,6 @@ import matter from 'gray-matter';
 
 import BlogHero from '../../components/BlogHero';
 
-
 export async function getStaticProps() {
     const files = fs.readdirSync('posts/blog');
 
@@ -29,9 +28,9 @@ const splitPostsByYear = (posts) => {
 
     for (var i = 0; i < posts.length; i++) {
         var post = posts[i];
-        var date = post.data.date
+        var date = post.data.date;
         var year = date.substring(0, 4);
-    
+
         if (dict[year]) {
             dict[year].push(post);
         } else {
@@ -40,13 +39,13 @@ const splitPostsByYear = (posts) => {
     }
     var result = Object.keys(dict).map(function (year) {
         return {
-            "year": year, 
-            "data": dict[year]
+            year: year,
+            data: dict[year]
         };
     });
 
     return result;
-}
+};
 
 export default function Blog({ posts }) {
     return (
@@ -64,9 +63,11 @@ export default function Blog({ posts }) {
                 <p>stellawang/brain-dump</p>
             </div>
             <div className="border border-gray-500 rounded-lg">
-                {splitPostsByYear(posts).reverse().map(({ year, data }, i) => (
-                    <BlogHero key={i} year={year} posts={data} />
-                ))}
+                {splitPostsByYear(posts)
+                    .reverse()
+                    .map(({ year, data }, i) => (
+                        <BlogHero key={i} year={year} posts={data} />
+                    ))}
             </div>
         </div>
     );
