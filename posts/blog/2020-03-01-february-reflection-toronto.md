@@ -1,5 +1,5 @@
 ---
-title: February 2020 Reflection (Toronto!)
+title: Toronto!
 date: '2020-03-01'
 ---
 

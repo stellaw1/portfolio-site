@@ -3,7 +3,8 @@ title: Life is messy
 date: '2022-10-21'
 ---
 
-So this is my twenties...
+
+> "Your twenties are for figuring it out, your thirties are for doing it, and your fourties are for enjoying it. " -Casey Neistat [[ref]](https://www.youtube.com/watch?v=KehujfbRBts&ab_channel=CaseyNeistat)
 
 Sometimes I feel like it will never sink in that I am 22 years old, but sometimes I feel like I have lives 50 years already because life moves so fast. So much growth and change has happened in my life and in those around me.
 
