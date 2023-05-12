@@ -40,7 +40,7 @@ const splitPostsByYear = (posts) => {
     var result = Object.keys(dict).map(function (year) {
         return {
             year: year,
-            data: dict[year]
+            data: dict[year].reverse()
         };
     });
 

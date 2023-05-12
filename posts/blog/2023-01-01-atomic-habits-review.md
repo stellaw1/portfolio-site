@@ -1,5 +1,5 @@
 ---
-title: Atomic Habits book review
+title: Atomic Habits book review (2022 recap)
 date: '2023-01-01'
 ---
 

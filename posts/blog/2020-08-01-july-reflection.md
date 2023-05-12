@@ -1,5 +1,5 @@
 ---
-title: July 2020 Reflection
+title: Simple life
 date: '2020-08-01'
 ---
 

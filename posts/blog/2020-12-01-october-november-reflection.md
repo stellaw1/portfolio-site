@@ -1,5 +1,5 @@
 ---
-title: October/ November 2020 Reflection
+title: The Covid Routine
 date: '2020-12-01'
 ---
 

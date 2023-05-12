@@ -1,5 +1,5 @@
 ---
-title: August/ September 2020 Reflection
+title: SAP journey begins!
 date: '2020-10-01'
 ---
 
