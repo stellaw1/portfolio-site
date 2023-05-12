@@ -22,7 +22,13 @@ export default function AboutPage() {
                         <p className="md:text-xl my-2">I am...</p>
                         <div className="flex flex-col space-y-4 md:text-lg ml-4 my-2">
                             <p>
-                                📚 studying{' '}
+                                💻 working at{' '}
+                                <b className="md:text-xl">
+                                    Amazon AWS
+                                </b>
+                            </p>
+                            <p>
+                                📚 studied{' '}
                                 <b className="md:text-xl">
                                     Computer Engineering
                                 </b>
@@ -34,7 +40,7 @@ export default function AboutPage() {
                                 </b>
                             </p>
                             <p>
-                                🎓 graduating in{' '}
+                                🎓 graduated in{' '}
                                 <b className="md:text-xl">May 2023</b>
                             </p>
                             <p>
