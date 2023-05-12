@@ -1,8 +1,8 @@
 ---
-title: Growing pains 
+title: Growing pains 🎓
 date: '2023-04-29'
 ---
-🎓
+
 
 Some feelings simply cannot be put into words, but somehow a playlist can describe it perfectly: 
 
