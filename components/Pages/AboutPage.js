@@ -1,6 +1,9 @@
+import { useState } from 'react';
 import Animation from '../Layout/Animation';
 
 export default function AboutPage() {
+    const [show, setShow] = useState(false);
+
     return (
         <Animation>
             <div className="mx-auto space-y-12">
@@ -86,6 +89,103 @@ export default function AboutPage() {
                         </p>
                     </div>
                 </div>
+
+                <div className="mx-auto pt-16 text-center">
+                    <button
+                        className="btn btn-info bg-sky-500/50 text-white hover:bg-sky-400/50 hover:text-white"
+                        onClick={() => {
+                            setShow(!show);
+                        }}
+                    >More about me!</button>
+                </div>
+                {show &&
+                    <div>
+                        <div className="pt-12">
+                            <div className="p-2 text-[#5FA8D3] text-2xl mx-auto center font-bold text-center">
+                                Tech Stack
+                            </div>
+                            <div className="carousel rounded-box h-72">
+                                <div className="carousel-item">
+                                    <img src="/images/blog/celeb1.jpg" alt="Burger" />
+                                </div> 
+                                <div className="carousel-item">
+                                    <img src="/images/blog/celeb2.jpg" alt="Burger" />
+                                </div> 
+                                <div className="carousel-item">
+                                    <img src="/images/blog/celeb3.jpg" alt="Burger" />
+                                </div> 
+                                <div className="carousel-item">
+                                    <img src="/images/blog/celeb4.jpg" alt="Burger" />
+                                </div> 
+                                <div className="carousel-item">
+                                    <img src="/images/blog/celeb5.jpg" alt="Burger" />
+                                </div> 
+                                <div className="carousel-item">
+                                    <img src="/images/blog/celeb6.jpg" alt="Burger" />
+                                </div> 
+                                <div className="carousel-item">
+                                    <img src="/images/blog/celeb7.jpg" alt="Burger" />
+                                </div>
+                            </div>
+                        </div>
+                        <div className="pt-12">
+                            <div className="p-2 text-[#5FA8D3] text-2xl mx-auto center font-bold text-center">
+                                Travel
+                            </div>
+                            <div className="carousel rounded-box h-72">
+                                <div className="carousel-item">
+                                    <img src="/images/blog/celeb1.jpg" alt="Burger" />
+                                </div> 
+                                <div className="carousel-item">
+                                    <img src="/images/blog/celeb2.jpg" alt="Burger" />
+                                </div> 
+                                <div className="carousel-item">
+                                    <img src="/images/blog/celeb3.jpg" alt="Burger" />
+                                </div> 
+                                <div className="carousel-item">
+                                    <img src="/images/blog/celeb4.jpg" alt="Burger" />
+                                </div> 
+                                <div className="carousel-item">
+                                    <img src="/images/blog/celeb5.jpg" alt="Burger" />
+                                </div> 
+                                <div className="carousel-item">
+                                    <img src="/images/blog/celeb6.jpg" alt="Burger" />
+                                </div> 
+                                <div className="carousel-item">
+                                    <img src="/images/blog/celeb7.jpg" alt="Burger" />
+                                </div>
+                            </div>
+                        </div>
+                        <div className="pt-12">
+                            <div className="p-2 text-[#5FA8D3] text-2xl mx-auto center font-bold text-center">
+                                Hobbies
+                            </div>
+                            <div className="carousel rounded-box h-72">
+                                <div className="carousel-item">
+                                    <img src="/images/blog/celeb1.jpg" alt="Burger" />
+                                </div> 
+                                <div className="carousel-item">
+                                    <img src="/images/blog/celeb2.jpg" alt="Burger" />
+                                </div> 
+                                <div className="carousel-item">
+                                    <img src="/images/blog/celeb3.jpg" alt="Burger" />
+                                </div> 
+                                <div className="carousel-item">
+                                    <img src="/images/blog/celeb4.jpg" alt="Burger" />
+                                </div> 
+                                <div className="carousel-item">
+                                    <img src="/images/blog/celeb5.jpg" alt="Burger" />
+                                </div> 
+                                <div className="carousel-item">
+                                    <img src="/images/blog/celeb6.jpg" alt="Burger" />
+                                </div> 
+                                <div className="carousel-item">
+                                    <img src="/images/blog/celeb7.jpg" alt="Burger" />
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                }
             </div>
         </Animation>
     );
