@@ -3,7 +3,7 @@ title: One last summer
 date: '2023-07-29'
 ---
 
-![pooh](/public/images/blog/pooh.jpg)
+![pooh](/images/blog/pooh.jpg)
 > How lucky am I to have something that makes saying goodbye so hard. 
 
 
