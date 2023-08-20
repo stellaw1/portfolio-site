@@ -1,5 +1,5 @@
 ---
-title: First Week at the New Job Reflection
+title: First week at the new job reflection
 date: '2023-08-04'
 ---
 
@@ -16,3 +16,6 @@ I think even though a lot of this definitely is an internal struggle, I do feel 
 
 ## Career wise
 Questions like "corporate vs startup" or "new team vs old team" were always thrown around before graduation, and I've always had my go to answers, but now after a week of being on a team whose product has been around for two decades and is integral to all of AWS versus interning on an up and coming team that was developing a new product from scratch, I think I finally have a solid answer. After just one short week of being on this new team and talking to everyone, receiving advice from the newer and older engineers, I realize the amount of things I have to learn. Both technical wise and soft skills wise, I have just been absorbing as much of the information that has been thrown at me. And it's looking like my onboarding will last another 6 months. What a privilege that my job is literally to learn from the friendliest people about one of the most integral products at AWS. I think under corporate, the correct order definitely goes old team -> new team. Especially joining as a fresh new grad, I'm just excited to be learning and on this two decade old team there is so so much I can learn. Until I learn everything (which some of the oldest engineers on my team claim to not have achieved either) or get bored I am super excited to be learning and contributing to this new team I get to call mine. Only then would I want to consider switching to a new team or startup for an opportunity to apply all that I have learnt and be a part of the decision process for building not only a product from scratch but also a team/ work environment that works. 
+
+## Discipline
+One thing that i've learnt 
