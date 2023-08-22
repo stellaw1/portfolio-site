@@ -19,3 +19,6 @@ Questions like "corporate vs startup" or "new team vs old team" were always thro
 
 ## Discipline
 One thing that i've learnt 
+
+## When the novelty is lost
+Update: we are now on week 4. The one month mark is approaching quickly. Today, the Monday Blues really hit me. I was super tired, low energy, and needed some help from coffee to keep me focused. It's a work in progress to build a sustainable routine - to know what my limits are and how much work is enough. Today, I think the novelty of me joining the team wore off, or maybe the team was just busy chasing deadlines all week that they dont have the time or energy to baby me anymore. 
