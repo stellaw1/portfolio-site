@@ -9,7 +9,7 @@ tags:
     - Graphs
 ---
 
-![millenium](https://github.com/stellaw1/stellaw1.github.io/blob/master/images/projects/millenium.png?raw=true)
+![millenium](/images/projects/millenium.png)
 
 ## Background
 
