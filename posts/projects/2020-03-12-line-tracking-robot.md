@@ -1,6 +1,6 @@
 ---
 title: Line Tracking Robot
-img: linerobot.jpg
+img: lr/lr1.jpg
 date: '2020-03-12'
 description: 'Built a line-following robot using a Raspberry Pi and a PID controller with additional functionalities for a course project'
 github: https://github.com/stellaw1/cpen291-line-tracking-robot
@@ -11,8 +11,8 @@ tags:
 
 ## Overview
 
-![robot front](https://github.com/stellaw1/stellaw1.github.io/blob/master/images/projects/linerobot.jpg?raw=true)
-![robot back](https://github.com/stellaw1/stellaw1.github.io/blob/master/images/projects/linerobot2.jpg?raw=true)
+![robot front](/images/projects/lr/lr1.jpg)
+![robot back](/images/projects/lr/lr2.jpg)
 
 My team and I built a robot that essentially follows black lines on light surfaces. The additional functionalities include a Mobile App Controller, path history tracking, alert system (Twitter), and object detection.
 
@@ -30,8 +30,8 @@ The headless Pi is used as the main CPU for the PID and the motors. It is attach
 
 #### Infrared Sensor protoboard
 
-![sensor1](https://github.com/stellaw1/stellaw1.github.io/blob/master/images/projects/linerobot-sensor1.jpg?raw=true)
-![sensor2](https://github.com/stellaw1/stellaw1.github.io/blob/master/images/projects/linerobot-sensor2.jpg?raw=true)
+![sensor1](/images/projects/lr/lr3.jpg)
+![sensor2](/images/projects/lr/lr4.jpg)
 
 We mounted and saudered reflective optical sensors at a specific angle chosen to minimize the effect of shadows cast, around 45 degrees. The placement of the inner sensors are at exactly tape width apart, such that ideally if the robot was directly on the black line, the inner sensors are direcly above the connection between the black and white (aka tape and floor), while the outer sensors read white (floor). A 100 Ohm resistor was connected to each Digital in pin on each sensor and a 4100 Ohm resistor connected to the 5V pin on the Motor Hat. This ratio was chosen to maintain the recommended circuit while increasing the power to the circuit at a safe level.
 
@@ -41,13 +41,13 @@ Sensors are sampled at a rate of 3000 Hz, namely approximately every 1/3000 seco
 
 #### Camera
 
-![camera](https://github.com/stellaw1/stellaw1.github.io/blob/master/images/projects/linerobot6.jpg?raw=true)
+![camera](/images/projects/lr/lr5.jpg)
 The camera is used to take snapshots of the robot’s environment to be posted to Twitter as an update tweet upon terminating its route.
 
 #### Circuit Fritzing
 
 This is a simplified Fritzing diagram of the circuitry and wiring for our robot.
-![fritzing](https://github.com/stellaw1/stellaw1.github.io/blob/master/images/projects/linerobot3.jpg?raw=true)
+![fritzing](/images/projects/lr/lr6.jpg)
 
 #### Component list
 
@@ -93,7 +93,7 @@ We plotted the path of the robot's traversal and displayed it on a 2D grpah on t
 
 #### Mobile App
 
-![app screenshot](https://github.com/stellaw1/stellaw1.github.io/blob/master/images/projects/linerobot5.jpg?raw=true)
+![app screenshot](/images/projects/lr/lr7.jpg)
 The Robot Controller app was developed in Android Studio, for Android phones. It connects to the robot via bluetooth and controls the robot through a joystick interface. The App sends the data in a string format to the pi, for which the main code has a decoder for and calls a function accordinly.
 
 The first part of the app consists of bluetooth code that connects the Raspberry Pi to a bluetooth device - the mobile phone. The second part checks for the coordinates pf the joystick controlled by the app user and casts the value to a string so it can be sent to the robot. Specifically, the Python code converts the x,y coordinates into vectors and an angle. The angle is used to find the direction the robot has to move in and the distance of the joystick from the center determines the speed for the robot to move at.
@@ -103,7 +103,7 @@ We chose a joystick UI rather than directional buttons because we felt the movin
 #### Twitter bot
 
 Using ouput from the Raspberry Pi camera attachment, we used a Python Twitter API to have out robot automatically tweet a picture of its environment upon completing a track, along with relevant information about the distance of obstacles in front of it and the speed at which it travels.
-![tweet](https://github.com/stellaw1/stellaw1.github.io/blob/master/images/projects/linerobot4.jpg?raw=true)
+![tweet](/images/projects/lr/lr8.jpg)
 
 #### Object detection
 
