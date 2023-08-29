@@ -11,7 +11,7 @@ tags:
     - FireBase
 ---
 
-![prototype](https://github.com/stellaw1/stellaw1.github.io/blob/master/images/projects/foodfairy.png?raw=true)
+![prototype](/images/projects/foodfairy.png)
 
 ## Inspiration
 

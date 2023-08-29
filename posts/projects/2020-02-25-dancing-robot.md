@@ -101,7 +101,7 @@ Since circuit python does not support interrupt service routine, we created an i
 
 ### Electronic Circuit
 
-![fritzing](https://github.com/stellaw1/stellaw1.github.io/blob/master/images/projects/dancing-robot-fritzing.jpg?raw=true)
+![fritzing](/images/projects/dancing-robot-fritzing.jpg)
 
 ## Skills practiced
 
