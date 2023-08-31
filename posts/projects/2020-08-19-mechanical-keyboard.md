@@ -49,7 +49,7 @@ When the parts arrive, you first have to check that there are no defects. Specif
 
 ## Parts
 
-**PCB/Case/Plate/Stabilizer:** [XD87 Hot Swappable PCB with underglow LED and USB-C connection](https://www.aliexpress.com/item/33028638867.html?spm=a2g0o.cart.0.0.47ef3c00Im9sn9&gps-id=shopcart_buyagain&scm=1007.13440.139630.0&scm_id=1007.13440.139630.0&scm-url=1007.13440.139630.0&pvid=1f753d2f-7cb0-4624-8b02-38a994d4f980)
+**PCB/Case/Plate/Stabilizer:** [XD87 Hot Swappable PCB Kit 3](https://kprepublic.com/products/xd87-xd87-xd80-custom-mechanical-keyboard-kit80-supports-tkg-tools-support-underglow-rgb-pcb-programmed-gh80-kle?variant=10176717553708)
 ![PCB front](/images/projects/kb/kb7.jpg)
 ![PCB back](/images/projects/kb/kb8.jpg)
 ![Case](/images/projects/kb/kb9.jpg)
@@ -86,12 +86,50 @@ Basically, I now have a very expensive hobby because building mechanical keyboar
 ![keycaps](/images/projects/kb/kb18.jpg)
 
 **Deskmat:** [Alberta Desk Mat](https://kineticlabs.com/desk-mats/agile/alberta-mat)
-![deskmat](/images/projects/kb/kb19.jpg)
+
+**Wrist rest:** [Glorious padded keyboard wrist rest TKL](https://www.gloriousgaming.com/products/glorious-gaming-keyboard-wrist-rest-padded)
 
 ## Final product
 ![new keeb](/images/projects/kb/kb1.jpeg)
 ![new keeb](/images/projects/kb/kb20.jpeg)
 
-## The addiction continues...
-![new keebs](/images/projects/kb/kb21.jpg)
-![new keebss](/images/projects/kb/kb22.jpg)
+
+# The addiction continues...
+
+## Compact Acrylic Keyboard
+
+![Akko](/images/projects/kb/kb21.jpg)
+![Akko](/images/projects/kb/kb22.jpg)
+
+**Keyboard:** [Akko ACR 64](https://en.akkogear.com/product/acr-64-diy-kit/)
+
+**Switches:** [EG Aqua King V3 Water King 55g](https://everglide.co/en-ca/products/everglide-aqua-king-water-king-switches-v3?variant=42887000326356)
+
+**Keycaps:** [104 Key Translucent PBT Keycaps](https://www.banggood.com/104-Key-Translucent-PBT-Keycaps-Matte-Texture-Keycap-Set-Color-Matching-for-Mechanical-Keyboard-p-1580724.html?rmmds=detail-left-hotproducts__3&ID=6157196&cur_warehouse=CN)
+
+
+## Wireless TKL Keyboard
+
+![soju](/images/projects/kb/kb23.jpg)
+
+**Keyboard:** [Epomaker Skyloong GK87S](https://epomaker.com/products/epomaker-gk87-kit?variant=31895652204617)
+
+**Switches:** [Gateron Yellow 50gf](https://www.banggood.com/70PCS-Pack-3Pin-Gateron-Linear-Yellow-Switch-Keyboard-Switch-for-Mechanical-Gaming-Keyboard-p-1426530.html?utm_design=18&utm_email=1640328603_2324&utm_source=emarsys&utm_medium=Shipoutinform190813&utm_campaign=trigger-logistics&utm_content=leander&sc_src=email_2671705&sc_eh=4d07e4cf512760671&sc_llid=33022385&sc_lid=104858042&sc_uid=2XyXgCSOmu&cur_warehouse=CN)
+
+**Keycaps:** [ePBT Soju](https://www.deskhero.ca/products/epbt-soju-keycaps-extras)
+
+**Deskmat:** [ePBT Soju](https://kono.store/products/epbt-soju-deskmats)
+
+![blank keycaps](/images/projects/kb/kb24.jpg)
+**Keycaps:** [Blank Thick PBT OEM](https://www.amazon.ca/Profile-Keycaps-Switches-Mechanical-Keyboard/dp/B07HFTBMRC?th=1)
+
+
+## Original TKL Keyboard
+
+![honey keycaps](/images/projects/kb/kb25.jpg)
+
+**Keyboard:** [XD87 TKL](https://kprepublic.com/products/xd87-xd87-xd80-custom-mechanical-keyboard-kit80-supports-tkg-tools-support-underglow-rgb-pcb-programmed-gh80-kle?variant=10176717553708)
+
+**Switches:** [Akko CS Matcha 50gf](https://en.akkogear.com/product/akko-cs-matcha-green-switch/)
+
+**Keycaps:** [Honey Milk PBT XDA](https://www.amazon.ca/Keycaps-Minimalist-Compatible-Mechanical-Keyboards/dp/B0948XRKCQ?th=1)
