@@ -106,22 +106,22 @@ export default function AboutPage() {
                             </div>
                             <div className="carousel rounded-box h-72">
                                 <div className="carousel-item">
-                                    <img src="/images/about/travel0.jpg" alt="Burger" />
+                                    <img src="/images/about/travel0.JPG" alt="Burger" />
                                 </div> 
                                 <div className="carousel-item">
-                                    <img src="/images/about/travel1.jpg" alt="Burger" />
+                                    <img src="/images/about/travel1.JPG" alt="Burger" />
                                 </div> 
                                 <div className="carousel-item">
-                                    <img src="/images/about/travel2.jpg" alt="Burger" />
+                                    <img src="/images/about/travel2.JPG" alt="Burger" />
                                 </div> 
                                 <div className="carousel-item">
-                                    <img src="/images/about/travel3.jpg" alt="Burger" />
+                                    <img src="/images/about/travel3.JPG" alt="Burger" />
                                 </div> 
                                 <div className="carousel-item">
-                                    <img src="/images/about/travel4.jpg" alt="Burger" />
+                                    <img src="/images/about/travel4.JPG" alt="Burger" />
                                 </div> 
                                 <div className="carousel-item">
-                                    <img src="/images/about/travel5.jpg" alt="Burger" />
+                                    <img src="/images/about/travel5.JPG" alt="Burger" />
                                 </div> 
                                 <div className="carousel-item">
                                     <img src="/images/about/travel6.jpg" alt="Burger" />
@@ -136,22 +136,22 @@ export default function AboutPage() {
                                     <img src="/images/about/travel9.jpg" alt="Burger" />
                                 </div> 
                                 <div className="carousel-item">
-                                    <img src="/images/about/travel10.jpg" alt="Burger" />
+                                    <img src="/images/about/travel10.JPG" alt="Burger" />
                                 </div> 
                                 <div className="carousel-item">
                                     <img src="/images/about/travel11.jpg" alt="Burger" />
                                 </div> 
                                 <div className="carousel-item">
-                                    <img src="/images/about/travel12.jpg" alt="Burger" />
+                                    <img src="/images/about/travel12.JPG" alt="Burger" />
                                 </div> 
                                 <div className="carousel-item">
                                     <img src="/images/about/travel13.jpg" alt="Burger" />
                                 </div> 
                                 <div className="carousel-item">
-                                    <img src="/images/about/travel14.jpg" alt="Burger" />
+                                    <img src="/images/about/travel14.JPG" alt="Burger" />
                                 </div> 
                                 <div className="carousel-item">
-                                    <img src="/images/about/travel15.jpg" alt="Burger" />
+                                    <img src="/images/about/travel15.JPG" alt="Burger" />
                                 </div> 
                                 <div className="carousel-item">
                                     <img src="/images/about/travel16.jpg" alt="Burger" />
@@ -160,13 +160,13 @@ export default function AboutPage() {
                                     <img src="/images/about/travel17.jpg" alt="Burger" />
                                 </div>
                                 <div className="carousel-item">
-                                    <img src="/images/about/travel18.jpg" alt="Burger" />
+                                    <img src="/images/about/travel18.JPG" alt="Burger" />
                                 </div>
                                 <div className="carousel-item">
-                                    <img src="/images/about/travel19.jpg" alt="Burger" />
+                                    <img src="/images/about/travel19.JPG" alt="Burger" />
                                 </div>
                                 <div className="carousel-item">
-                                    <img src="/images/about/travel20.jpg" alt="Burger" />
+                                    <img src="/images/about/travel20.JPG" alt="Burger" />
                                 </div>
                                 <div className="carousel-item">
                                     <img src="/images/about/travel21.jpg" alt="Burger" />
@@ -194,13 +194,13 @@ export default function AboutPage() {
                                     <img src="/images/about/sports3.jpg" alt="Burger" />
                                 </div> 
                                 <div className="carousel-item">
-                                    <img src="/images/about/sports4.jpg" alt="Burger" />
+                                    <img src="/images/about/sports4.JPG" alt="Burger" />
                                 </div> 
                                 <div className="carousel-item">
                                     <img src="/images/about/sports5.jpg" alt="Burger" />
                                 </div> 
                                 <div className="carousel-item">
-                                    <img src="/images/about/sports6.jpg" alt="Burger" />
+                                    <img src="/images/about/sports6.JPG" alt="Burger" />
                                 </div>
                                 <div className="carousel-item">
                                     <img src="/images/about/sports7.jpeg" alt="Burger" />
