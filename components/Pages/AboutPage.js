@@ -202,6 +202,12 @@ export default function AboutPage() {
                                 <div className="carousel-item">
                                     <img src="/images/about/sports6.jpg" alt="Burger" />
                                 </div>
+                                <div className="carousel-item">
+                                    <img src="/images/about/sports7.jpeg" alt="Burger" />
+                                </div>
+                                <div className="carousel-item">
+                                    <img src="/images/about/sports8.jpeg" alt="Burger" />
+                                </div>
                             </div>
                         </div>
                     </div>
