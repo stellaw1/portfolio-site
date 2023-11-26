@@ -10,6 +10,7 @@
         "prettier:write": "prettier --write ."
     },
     "dependencies": {
+        "daisyui": "^2.51.6",
         "framer-motion": "^7.6.1",
         "gray-matter": "^4.0.3",
         "markdown-it": "^12.3.2",
