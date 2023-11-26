@@ -105,7 +105,7 @@ export default function AboutPage() {
                                Travel 
                             </div>
                             <div className="carousel rounded-box h-72">
-                                <div className="carousel-item">
+                                <div className="carousel-item sm:max-w-xs">
                                     <img src="/images/about/travel0.JPG" alt="Burger" />
                                 </div> 
                                 <div className="carousel-item">
