@@ -99,13 +99,13 @@ export default function AboutPage() {
                                Travel 
                             </div>
                             <div className="carousel rounded-box h-72">
-                                <div className="carousel-item">
+                                <div className="carousel-item object-contain">
                                     <img src="/images/about/travel0.JPG" alt="Burger" />
                                 </div> 
-                                <div className="carousel-item">
+                                <div className="carousel-item sm:max-w-xs md:max-w-sm">
                                     <img src="/images/about/travel1.JPG" alt="Burger" />
                                 </div> 
-                                <div className="carousel-item">
+                                <div className="carousel-item sm:object-contain md:object-contain">
                                     <img src="/images/about/travel2.JPG" alt="Burger" />
                                 </div> 
                                 <div className="carousel-item">
