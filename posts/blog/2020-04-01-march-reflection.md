@@ -5,13 +5,11 @@ date: '2020-04-01'
 
 Hello,
 
-It is currently 5:00am, April 1st. I don’t have a full reflection for the month of March because we are in the middle of a pandemic where everything is very confusing and the future unpredictable.
-
-I don’t feel like reflecting on the month of March as I have these previous months. Maybe I will come back to reflect on it and update this in the future but right now it is too depressing to.
+It is currently 5:00am, April 1st. I don’t have a full reflection for the month of March because we are in the middle of a pandemic where everything is very confusing and the future unpredictable. I don’t feel like reflecting on the month of March as I have these previous months; it is too depressing to right now.
 
 We are currently in isolation/ social distancing in Canada, meaning we are recommended to stay home except for emergencies (ie, groceries, pharmacy, exercise, etc) for our safety and for others’ safety. It seems like not every person in my community is staying home at the moment which is very frustrating because the problem gets dragged on for longer because of any spread that they cause which means we stay in isolation for longer.
 
-Personally, I can slowly feel my sanity creeping away - living alone is not healthy for me... mad respect for anybody that prefers it. My mental health is slowly getting worse, especially my anxiety; physical health is not good. Circadian rhythm is none existent, and career life halted completely.
+I can slowly feel my sanity creeping away - living alone is not healthy for me... mad respect for anybody that prefers it. My mental health is slowly getting worse, especially my anxiety; physical health is not good. Circadian rhythm is none existent, and career life halted completely.
 
 The worst part is that even though in the scope of my personal life, shit sucks, I can’t let myself feel bad because there are individuals suffering much worse problems during this pandemic. I think about the healthcare workers, most of which have families of their own, risking their lives everyday to help others. There are labour workers who live paycheck to paycheck who wish to work but can’t for safety or other constraints. And, the people who lost loved ones, my heart goes out to them. Compared to this, my problems are minuscule. I should be grateful that I have a safe shelter to stay in. I should be grateful I have enough money to live through this “work from home” period. I should be grateful that my university provides online courses and options for us to remain as stress-free as possible from school during this disruption. But, due to the nature of the human psyche (I think... psych majors prove me wrong pls!!), I can only see my problems and focus on my stupid, insignificant, first-world struggles. That bothers me.
 
