@@ -26,22 +26,6 @@ As for concrete achievements, there were a few significant projects and tasks th
 5. I booked a trip to visit my brother in Toronto spontaneously
 6. I learnt C++ and have a stronger understanding about memory and pointers now
 
-## Fun events from January
-
--   **Jan 3rd -** Dinner in White Rock + late night beach hang w/ my faves
--   **Jan 4th -** Popeyes w/ Max, James, Jeffrey, Oliv, Daniel, Seann
--   **Jan 10th -** First snow!
--   **Jan 11th -** Went to nwHacks with Arnold, Amir, and Parsa
--   **Jan 15th -** Snow day! (Day in w/ Seann + nice walk in nice snow)
--   **Jan 19th -** Tiger Sugar in Canada is not as good as Taiwan :(
--   **Jan 17th -** Wine night w/ Jen Jen + BMEG party loool
--   **Jan 19th -** Introduced some of my high school friends (James & Daniel) to my uni friends (Rain, Arnold, Chi-Yao, David, and Jen) @ Suika
--   **Jan 20th -** Started a workout challenge w/ Rav aka we film a timelapse of a 2 min plank every time we go to the gym
--   **Jan 23rd -** Mum came to visit me and celebrate Chinese New Year together
--   **Jan 25th -** Shopping w/ Mum
--   **Jan 27th -** Dinner at Rajio with Seann, his mum, my mum, and I
--   **Jan 29th -** Secured 2020 Summer Co-op position!
-
 ## What now?
 
 I will continue to grow wiser and stronger with my new mindset and continue challenging myself with spontaneous decisions to participate in new experiences. At the end of February, we will reflect again and see what else will change, what I will accomplish, and how I will be feeling.

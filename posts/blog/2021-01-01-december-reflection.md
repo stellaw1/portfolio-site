@@ -1,5 +1,5 @@
 ---
-title: Final 2020 Reflection + 2021 aspirations
+title: The year of the pandemic
 date: '2021-01-01'
 ---
 

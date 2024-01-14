@@ -1,5 +1,5 @@
 ---
-title: The Covid Routine
+title: The covid routine
 date: '2020-12-01'
 ---
 

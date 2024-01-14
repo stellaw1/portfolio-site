@@ -21,6 +21,6 @@ Moving forward, August will be an incredibly busy month, being the last month of
 
 I have started making checklists for day-to-day goals, while will hopefully help me reach those long term goals. My goal for this month is to take it easy, as it is the last month of summer. I will not worry about the little things. Instead, I will do my best to complete tasks that I need to do (whether it's to do with moving, my internship, or my future...) and squeeze the most learning I can out of whatever I'm working on!
 
-Enjoyig the last bit of my summer,
+Enjoying the last bit of my summer,
 
 Stella

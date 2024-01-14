@@ -3,23 +3,23 @@ title: 19 lessons I've learnt at 19
 date: '2019-05-01'
 ---
 
-Discailmer: In Canada, 19 is the big year when teens move on to adulthood, hence why we have 19 lessons rather than the usual 18...
+Discailmer: In Canada, 19 is the big year when teens move on to adulthood
 
 ## 1. You never stop growing
 
-With naivety and immaturity, some thoughts can appear too concrete in our minds. Especially things like interests, goals, and priorities are fluid ideas that are subject to change after new experiences and life lessons.
+Some things can appear too concrete in our minds. Especially things like interests, goals, and priorities are fluid ideas that are subject to change after new experiences and life lessons.
 
 ## 2. "I don't have time for it right now" is a bad excuse
 
-Though it may seem like there is never enough time to check off everything on your bucketlist, it definitely is possible through prioritizing and perseverance. In a single day, there is a limited amount of time. Add to that, classes and necessities (Eg, eating, sleeping, and exercising), there is an even smaller amount of free time left. However, even in one of the most rigorous program - engineering - I have found that there is some free time in every day, that if put to good use, can add up to mean something significant.
+In a single day, there is a limited amount of time. Add to that, classes and necessities (Eg, eating, sleeping, and exercising), there is an even smaller amount of free time left. It may seem like there is never a good time to start the backlog items, but a small amount of progress every day can amount to a lot over time. 
 
 ## 3. Ambition can be harmful, too
 
-Continuing on from the last lesson... Ambition can also harm a person when it comes in large maginitudes or long durations. When a person becomes too focused on their goals, it can hinder their abilities to care for their physical and mental health. It is important to work towards achieving goals at a healthy pace that your brain and body can handle.
+Ambition can also harm a person when there is too much, too fast. A lot of times you can tunnel vision focus on a goal so much it leads to forgetting to care for physical and mental health. Pacing is key. 
 
 ## 4. Choose to be happy
 
-From meeting new people and having fresh conversations, I have learnt that happiness is heavily reliant on perspectives. While pessimists see happiness as spikes in a typically flat line, optimists see happiness as the flat line with occasional dips which represent some not so happy moments.
+Happiness is purely based on perspective. While pessimists see happiness as spikes in a typically flat line, optimists see happiness as the flat line with occasional dips which represent some not so happy moments.
 
 ## 5. Some friendships never die
 
@@ -27,7 +27,7 @@ Maybe I am a little too young to use the word "never", but when everybody in hig
 
 ## 6. I am super lucky
 
-Sometimes, being secluded in my little city, in my little school, it is easy to forget the hardship that exists out there. Not many people around me realize that we exist in the top 1% of people living. We should always be reflective and appreciative of what we have because it is so easy to lose perspective.
+Being secluded in my little city, in my little school, it is easy to forget the hardship that exists out there. Not many people around me realize that we exist in the top 1%. We should always be reflective and appreciative of what we have because it is so easy to lose perspective.
 
 ## 7. Music can change a lot
 
@@ -39,7 +39,7 @@ I know this is one of the first lessons we learn as a kid, but, seriously, be ki
 
 > "If you don't have something nice to say, then don't say it."
 
-## 9. Express love to those that you love often
+## 9. Express your love
 
 Even though your loved ones probably know how much you love them, it is important to express that in words occasionally. It is always warm to hear that you are loved.
 
@@ -79,7 +79,7 @@ Ask for help when needed and trust in others. Trust in the system. Trust in your
 
 For their sake and yours, grudges don't help anyone. Just be aware of the lesson learnt and be more careful to avoid it in the future.
 
-## 18. Speak your feelings
+## 18. Speak your mind
 
 If you feel like fighting, then fight. If you feel like arguing, then argue. Sometimes the little things are better spoken even if it leads to an argument. It is important to speak your thoughts and give both parties a chance to stand up for themselves. If everything just continues to get pushed down, you have to live unhappily, while the other is clueless about it.
 
