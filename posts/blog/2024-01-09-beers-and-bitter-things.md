@@ -6,7 +6,7 @@ date: '2024-01-09'
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tgNtNWrjUrs?si=BDK-q9MDO81YC_KH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-2023 was a truly unforgettable year. It was the year we graduated. We travelled to four new countries/ cities (Mexico, Korea, Japan, & San Francisco), went to so many concerts (Valley, TWICE, Ed Sheeran, & Coldplay), partied with friends (new & old), learnt new sports (and climbed to intramural champions btw). So much happened this year. It was a year full of doing, and not a lot of reflecting which I think will be the opposite of how 2024 will play out. 
+2023 was a truly unforgettable year. It was the year we graduated. We travelled to four new countries/ cities (Mexico, Korea, Japan, & San Francisco), went to so many concerts (Valley, TWICE, Ed Sheeran, & Coldplay), partied with friends (new & old), learnt new sports (and won intramural champions btw). So much happened this year. It was a year full of doing, and not a lot of reflecting which I think will be the opposite of how 2024 will play out. 
 
 2024 is the year of the dragon and I foresee it will be the year we really feel like we are **growing old**. This feeling hit me recently in a candid conversation with some friends, when friend A admitted that she recently started enjoying beer and friend B responded, "isn't that just the adulting thing where you start to appreciate bitter things?"
 
@@ -20,10 +20,10 @@ We are well underway in this chapter we call adulthood and things are slowly set
  - pay off my student loans
  - get promoted to L5
 
-### Some things I want to do more this year:
- - Be kinder (to others and to myself)
- - Read
- - Travel
+### Some things I want to do more of this year:
+ - be kinder (to others and to myself)
+ - read
+ - travel
 
 ## Mantra of the year:
 > Do it afraid. 
