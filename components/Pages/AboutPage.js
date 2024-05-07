@@ -96,78 +96,78 @@ export default function AboutPage() {
                             <div className="p-2 text-[#5FA8D3] text-2xl mx-auto center font-bold text-center">
                                Travel 
                             </div>
-                            <div className="carousel rounded-box h-72">
-                                <div className="carousel-item">
-                                    <img src="/images/about/travel0.JPG" />
+                            <div className="carousel rounded-box lg:h-72">
+                                <div className="carousel-item object-contain">
+                                    <img className="object-fill max-h-72" src="/images/about/travel0.JPG" alt="i"/>
                                 </div> 
-                                <div className="carousel-item">
-                                    <img src="/images/about/travel1.JPG" />
+                                <div className="carousel-item object-contain">
+                                    <img className="object-fill max-h-72" src="/images/about/travel1.JPG" alt="i"/>
                                 </div> 
-                                <div className="carousel-item">
-                                    <img src="/images/about/travel2.JPG" />
+                                <div className="carousel-item object-contain">
+                                    <img className="object-fill max-h-72" src="/images/about/travel2.JPG" alt="i"/>
                                 </div> 
-                                <div className="carousel-item">
-                                    <img src="/images/about/travel3.JPG" />
+                                <div className="carousel-item object-contain">
+                                    <img className="object-fill max-h-72" src="/images/about/travel3.JPG" alt="i"/>
                                 </div> 
-                                <div className="carousel-item">
-                                    <img src="/images/about/travel4.JPG" />
+                                <div className="carousel-item object-contain">
+                                    <img className="object-fill max-h-72" src="/images/about/travel4.JPG" alt="i"/>
                                 </div> 
-                                <div className="carousel-item">
-                                    <img src="/images/about/travel5.JPG" />
+                                <div className="carousel-item object-contain">
+                                    <img className="object-fill max-h-72" src="/images/about/travel5.JPG" alt="i"/>
                                 </div> 
-                                <div className="carousel-item">
-                                    <img src="/images/about/travel6.jpg" />
+                                <div className="carousel-item object-contain">
+                                    <img className="object-fill max-h-72" src="/images/about/travel6.jpg" alt="i"/>
                                 </div> 
-                                <div className="carousel-item">
-                                    <img src="/images/about/travel7.jpg" />
+                                <div className="carousel-item object-contain">
+                                    <img className="object-fill max-h-72" src="/images/about/travel7.jpg" alt="i"/>
                                 </div>
-                                <div className="carousel-item">
-                                    <img src="/images/about/travel8.jpg" />
+                                <div className="carousel-item object-contain">
+                                    <img className="object-fill max-h-72" src="/images/about/travel8.jpg" alt="i"/>
                                 </div> 
-                                <div className="carousel-item">
-                                    <img src="/images/about/travel9.jpg" />
+                                <div className="carousel-item object-contain">
+                                    <img className="object-fill max-h-72" src="/images/about/travel9.jpg" alt="i"/>
                                 </div> 
-                                <div className="carousel-item">
-                                    <img src="/images/about/travel10.JPG" />
+                                <div className="carousel-item object-contain">
+                                    <img className="object-fill max-h-72" src="/images/about/travel10.JPG" alt="i"/>
                                 </div> 
-                                <div className="carousel-item">
-                                    <img src="/images/about/travel11.jpg" />
+                                <div className="carousel-item object-contain">
+                                    <img className="object-fill max-h-72" src="/images/about/travel11.jpg" alt="i"/>
                                 </div> 
-                                <div className="carousel-item">
-                                    <img src="/images/about/travel12.JPG" />
+                                <div className="carousel-item object-contain">
+                                    <img className="object-fill max-h-72" src="/images/about/travel12.JPG" alt="i"/>
                                 </div> 
-                                <div className="carousel-item">
-                                    <img src="/images/about/travel13.jpg" />
+                                <div className="carousel-item object-contain">
+                                    <img className="object-fill max-h-72" src="/images/about/travel13.jpg" alt="i"/>
                                 </div> 
-                                <div className="carousel-item">
-                                    <img src="/images/about/travel14.JPG" />
+                                <div className="carousel-item object-contain">
+                                    <img className="object-fill max-h-72" src="/images/about/travel14.JPG" alt="i"/>
                                 </div> 
-                                <div className="carousel-item">
-                                    <img src="/images/about/travel15.JPG" />
+                                <div className="carousel-item object-contain">
+                                    <img className="object-fill max-h-72" src="/images/about/travel15.JPG" alt="i"/>
                                 </div> 
-                                <div className="carousel-item">
-                                    <img src="/images/about/travel16.jpg" />
+                                <div className="carousel-item object-contain">
+                                    <img className="object-fill max-h-72" src="/images/about/travel16.jpg" alt="i"/>
                                 </div> 
-                                <div className="carousel-item">
-                                    <img src="/images/about/travel17.jpg" />
+                                <div className="carousel-item object-contain">
+                                    <img className="object-fill max-h-72" src="/images/about/travel17.jpg" alt="i"/>
                                 </div>
-                                <div className="carousel-item">
-                                    <img src="/images/about/travel18.JPG" />
+                                <div className="carousel-item object-contain">
+                                    <img className="object-fill max-h-72" src="/images/about/travel18.JPG" alt="i"/>
                                 </div>
-                                <div className="carousel-item">
-                                    <img src="/images/about/travel19.JPG" />
+                                <div className="carousel-item object-contain">
+                                    <img className="object-fill max-h-72" src="/images/about/travel19.JPG" alt="i"/>
                                 </div>
-                                <div className="carousel-item">
-                                    <img src="/images/about/travel20.JPG" />
+                                <div className="carousel-item object-contain">
+                                    <img className="object-fill max-h-72" src="/images/about/travel20.JPG" alt="i"/>
                                 </div>
-                                <div className="carousel-item">
-                                    <img src="/images/about/travel21.jpg" />
+                                <div className="carousel-item object-contain">
+                                    <img className="object-fill max-h-72" src="/images/about/travel21.jpg" alt="i"/>
                                 </div> 
-                                <div className="carousel-item">
-                                    <img src="/images/about/travel22.jpg" />
+                                <div className="carousel-item object-contain">
+                                    <img className="object-fill max-h-72" src="/images/about/travel22.jpg" alt="i"/>
                                 </div> 
-                                <div className="carousel-item">
-                                    <img src="/images/about/travel23.jpg" />
+                                <div className="carousel-item object-contain">
+                                    <img className="object-fill max-h-72" src="/images/about/travel23.jpg" alt="i"/>
                                 </div> 
                             </div>
                         </div>
@@ -176,29 +176,29 @@ export default function AboutPage() {
                                 Sports
                             </div>
                             <div className="carousel rounded-box h-72">
-                                <div className="carousel-item">
-                                    <img src="/images/about/sports1.jpg" />
+                                <div className="carousel-item object-contain">
+                                    <img className="object-fill max-h-72" src="/images/about/sports1.jpg" alt="i"/>
                                 </div> 
-                                <div className="carousel-item">
-                                    <img src="/images/about/sports2.jpg" />
+                                <div className="carousel-item object-contain">
+                                    <img className="object-fill max-h-72" src="/images/about/sports2.jpg" alt="i"/>
                                 </div> 
-                                <div className="carousel-item">
-                                    <img src="/images/about/sports3.jpg" />
+                                <div className="carousel-item object-contain">
+                                    <img className="object-fill max-h-72" src="/images/about/sports3.jpg" alt="i"/>
                                 </div> 
-                                <div className="carousel-item">
-                                    <img src="/images/about/sports4.JPG" />
+                                <div className="carousel-item object-contain">
+                                    <img className="object-fill max-h-72" src="/images/about/sports4.JPG" alt="i"/>
                                 </div> 
-                                <div className="carousel-item">
-                                    <img src="/images/about/sports5.jpg" />
+                                <div className="carousel-item object-contain">
+                                    <img className="object-fill max-h-72" src="/images/about/sports5.jpg" alt="i"/>
                                 </div> 
-                                <div className="carousel-item">
-                                    <img src="/images/about/sports6.JPG" />
+                                <div className="carousel-item object-contain">
+                                    <img className="object-fill max-h-72" src="/images/about/sports6.JPG" alt="i"/>
                                 </div>
-                                <div className="carousel-item">
-                                    <img src="/images/about/sports7.jpeg" />
+                                <div className="carousel-item object-contain">
+                                    <img className="object-fill max-h-72" src="/images/about/sports7.jpeg" alt="i"/>
                                 </div>
-                                <div className="carousel-item">
-                                    <img src="/images/about/sports8.jpeg" />
+                                <div className="carousel-item object-contain">
+                                    <img className="object-fill max-h-72" src="/images/about/sports8.jpeg" alt="i"/>
                                 </div>
                             </div>
                         </div>
