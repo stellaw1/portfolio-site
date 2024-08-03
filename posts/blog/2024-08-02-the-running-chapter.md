@@ -37,6 +37,5 @@ Everything my dad told me was true, all the tips he gave me and his predictions 
 
 ![medal](/images/blog/mar8.jpg)
 ![cheer](/images/blog/mar9.jpg)
-![cheer](/images/blog/mar10.jpg)
 
 It's been about a week now and it feels weird not having to dedicate my weekends to training anymore. It feels weird to think that we really did that and it's all over... until the next marathon :^) I'm not super sure where I will take my running journey next to be honest. My legs are still sore and I don't have the capacity to think about the next race just yet, but I am pretty confident that there will be more to come :) We will just have to wait and see. For now, relishing in the fact that we did that!! and getting a bit of needed rest and reset. 
