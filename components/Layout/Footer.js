@@ -7,14 +7,6 @@ export default function Footer() {
                 <ul className="flex flex-wrap items-center mt-3">
                     <li>
                         <SocialIcon
-                            url="mailto:stellaw1@student.ubc.ca"
-                            className="transition duration-150 ease-in-out mr-4 hover:scale-125"
-                            style={{ height: 36, width: 36 }}
-                            bgColor="#ee8634"
-                        />
-                    </li>
-                    <li>
-                        <SocialIcon
                             url="https://www.linkedin.com/in/stellaw1"
                             className="transition duration-150 ease-in-out mr-4 hover:scale-125"
                             style={{ height: 36, width: 36 }}
@@ -31,13 +23,6 @@ export default function Footer() {
                     <li>
                         <SocialIcon
                             url="https://open.spotify.com/user/12172097669?si=e17f18eb635a46bc"
-                            className="transition duration-150 ease-in-out mr-4 hover:scale-125"
-                            style={{ height: 36, width: 36 }}
-                        />
-                    </li>
-                    <li>
-                        <SocialIcon
-                            url="https://twitter.com/stellaw__"
                             className="transition duration-150 ease-in-out mr-4 hover:scale-125"
                             style={{ height: 36, width: 36 }}
                         />
